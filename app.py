@@ -68,7 +68,7 @@ def login():
         return redirect(authorization_url)
     except Exception as exc:
         logger.error("Failed to initiate OAuth login: %s", exc)
-        return render_template("index.html", error="Failed to start login. Please try again."), 500
+        return render_template("index.html", error=f"Failed to start login: {exc}"), 500
 
 
 @app.route("/oauth2callback")
@@ -90,7 +90,7 @@ def oauth2callback():
         return redirect(url_for("emails"))
     except Exception as exc:
         logger.error("OAuth callback failed: %s", exc)
-        return render_template("index.html", error="Authentication failed. Please try again."), 500
+        return render_template("index.html", error=f"Authentication failed: {exc}"), 500
 
 
 @app.route("/emails")
@@ -138,7 +138,7 @@ def emails():
         session.pop("credentials", None)
         return render_template(
             "index.html",
-            error="Failed to retrieve emails. Your session may have expired — please log in again.",
+            error=f"Failed to retrieve emails: {exc}",
         ), 500
 
 
