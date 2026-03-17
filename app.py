@@ -106,29 +106,13 @@ def emails():
         service = get_gmail_service(creds)
         email_list = fetch_latest_emails(service, max_results=10, query=query)
 
-        # Categorize and group the returned emails
-        grouped_emails = {
-            "Important": [],
-            "Work / Jobs": [],
-            "Social": [],
-            "Notifications": [],
-            "Promotions": [],
-            "Other": [],
-        }
-        for email in email_list:
-            cat = email.get("category", "Other")
-            if cat in grouped_emails:
-                grouped_emails[cat].append(email)
-            else:
-                grouped_emails["Other"].append(email)
-
         # If the token was refreshed, persist the updated credentials.
         session["credentials"] = credentials_to_session(creds)
 
         logger.info("Displaying %d emails for user with query '%s'.", len(email_list), query)
         return render_template(
             "emails.html", 
-            grouped_emails=grouped_emails, 
+            emails=email_list, 
             query=query, 
             total_emails=len(email_list)
         )

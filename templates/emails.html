@@ -49,63 +49,48 @@
         </form>
 
         <!-- ============================================================
-             EMAIL LIST (CATEGORIZED)
+             EMAIL LIST
              ============================================================ -->
         {% if total_emails > 0 %}
         <div class="email-list">
-            {% for category, emails_in_cat in grouped_emails.items() %}
-            {% if emails_in_cat %}
-            
-            <div class="category-section">
-                <!-- Category Section Header -->
-                <div class="category-header">
-                    <h2 class="category-title">{{ category }} <span class="category-count">({{ emails_in_cat | length }})</span></h2>
-                    <div class="category-divider"></div>
-                </div>
+            <div class="category-emails">
+                {% for email in emails %}
+                {% set sender_initial = email.from[0] | upper if email.from else '?' %}
+                {% set letter_class = 'avatar-' + sender_initial | lower if sender_initial.isalpha() else 'avatar-other' %}
+                
+                <!-- Clean badge class (e.g., 'Work / Jobs' -> 'badge-work-jobs') -->
+                {% set badge_class = 'badge-' + email.category.lower() | replace(' ', '-') | replace('/', '') | replace('--', '-') | trim %}
 
-                <!-- Emails in this Category -->
-                <div class="category-emails">
-                    {% for email in emails_in_cat %}
-                    {% set sender_initial = email.from[0] | upper if email.from else '?' %}
-                    {% set letter_class = 'avatar-' + sender_initial | lower if sender_initial.isalpha() else 'avatar-other' %}
-                    
-                    <!-- Clean badge class (e.g., 'Work / Jobs' -> 'badge-work-jobs') -->
-                    {% set badge_class = 'badge-' + email.category.lower() | replace(' ', '-') | replace('/', '') | replace('--', '-') | trim %}
+                <article class="email-card">
+                    <!-- Unread indicator -->
+                    <span class="unread-dot"></span>
 
-                    <article class="email-card">
-                        <!-- Unread indicator -->
-                        <span class="unread-dot"></span>
+                    <!-- Sender avatar -->
+                    <div class="avatar {{ letter_class }}">{{ sender_initial }}</div>
 
-                        <!-- Sender avatar -->
-                        <div class="avatar {{ letter_class }}">{{ sender_initial }}</div>
-
-                        <!-- Email content -->
-                        <div class="email-body">
-                            <!-- Row 1: sender + date + category badge -->
-                            <div class="email-row-top">
-                                <div class="email-sender-wrap">
-                                    <span class="email-sender">{{ email.from }}</span>
-                                    <span class="category-badge {{ badge_class }}">{{ email.category | upper }}</span>
-                                </div>
-                                <span class="email-date">{{ email.date }}</span>
+                    <!-- Email content -->
+                    <div class="email-body">
+                        <!-- Row 1: sender + date + category badge -->
+                        <div class="email-row-top">
+                            <div class="email-sender-wrap">
+                                <span class="email-sender">{{ email.from }}</span>
+                                <span class="category-badge {{ badge_class }}">{{ email.category | upper }}</span>
                             </div>
-
-                            <!-- Divider -->
-                            <div class="email-divider"></div>
-
-                            <!-- Row 2: subject -->
-                            <div class="email-subject">{{ email.subject }}</div>
-
-                            <!-- Row 3: preview -->
-                            <p class="email-preview">{{ email.preview }}</p>
+                            <span class="email-date">{{ email.date }}</span>
                         </div>
-                    </article>
-                    {% endfor %}
-                </div>
-            </div>
 
-            {% endif %}
-            {% endfor %}
+                        <!-- Divider -->
+                        <div class="email-divider"></div>
+
+                        <!-- Row 2: subject -->
+                        <div class="email-subject">{{ email.subject }}</div>
+
+                        <!-- Row 3: preview -->
+                        <p class="email-preview">{{ email.preview }}</p>
+                    </div>
+                </article>
+                {% endfor %}
+            </div>
         </div>
         {% else %}
         <div class="empty-state">Your inbox is empty 🎉</div>
