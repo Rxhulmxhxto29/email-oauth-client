@@ -6,11 +6,11 @@ user's inbox.
 """
 
 import logging
-from googleapiclient.discovery import build
-from googleapiclient.errors import HttpError
-from google.oauth2.credentials import Credentials
+from googleapiclient.discovery import build  # type: ignore
+from googleapiclient.errors import HttpError  # type: ignore
+from google.oauth2.credentials import Credentials  # type: ignore
 
-from utils.email_classifier import categorize_email
+from utils.email_classifier import categorize_email  # type: ignore
 
 logger = logging.getLogger(__name__)
 

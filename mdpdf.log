@@ -1,0 +1,994 @@
+    INFO: 2026-03-18 06:16:30,597:               log.py:   20: Logging to C:\Users\WIN10 HOME 22H2\Downloads\email project\mdpdf.log
+   DEBUG: 2026-03-18 06:16:30,599:               cli.py:  103: PROJECT_REPORT.md
+    INFO: 2026-03-18 06:16:30,612:         converter.py:   14: PROJECT_REPORT.md
+   DEBUG: 2026-03-18 06:16:30,685:      pdf_renderer.py:  470: printSegment: Email OAuth Client — Project Report
+   DEBUG: 2026-03-18 06:16:30,734:      pdf_renderer.py:  470: printSegment: Project Name:
+   DEBUG: 2026-03-18 06:16:30,752:      pdf_renderer.py:  470: printSegment:  Email OAuth Client
+   DEBUG: 2026-03-18 06:16:30,760:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:30,763:      pdf_renderer.py:  470: printSegment: Author:
+   DEBUG: 2026-03-18 06:16:30,765:      pdf_renderer.py:  470: printSegment:  Rahul Mahato
+   DEBUG: 2026-03-18 06:16:30,767:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:30,768:      pdf_renderer.py:  470: printSegment: Live URL:
+   DEBUG: 2026-03-18 06:16:30,770:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:30,772:      pdf_renderer.py:  470: printSegment: https://email-oauth-client.onrender.com
+   DEBUG: 2026-03-18 06:16:30,774:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:30,776:      pdf_renderer.py:  470: printSegment: GitHub:
+   DEBUG: 2026-03-18 06:16:30,778:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:30,781:      pdf_renderer.py:  470: printSegment: https://github.com/Rxhulmxhxto29/email-oauth-client
+   DEBUG: 2026-03-18 06:16:30,782:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:30,784:      pdf_renderer.py:  470: printSegment: Date:
+   DEBUG: 2026-03-18 06:16:30,787:      pdf_renderer.py:  470: printSegment:  March 18, 2026
+   DEBUG: 2026-03-18 06:16:30,793:      pdf_renderer.py:  470: printSegment: Table of Contents
+   DEBUG: 2026-03-18 06:16:30,795:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2026-03-18 06:16:30,799:      pdf_renderer.py:  470: printSegment: What is This Project?
+   ERROR: 2026-03-18 06:16:30,802:      pdf_renderer.py:  217: C:\Users\WIN10 HOME 22H2\Downloads\email project\PROJECT_REPORT.md:13: #1-what-is-this-project: No such file or directory
+   DEBUG: 2026-03-18 06:16:30,803:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2026-03-18 06:16:30,807:      pdf_renderer.py:  470: printSegment: What Does This Project Do?
+   ERROR: 2026-03-18 06:16:30,809:      pdf_renderer.py:  217: C:\Users\WIN10 HOME 22H2\Downloads\email project\PROJECT_REPORT.md:14: #2-what-does-this-project-do: No such file or directory
+   DEBUG: 2026-03-18 06:16:30,812:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2026-03-18 06:16:30,816:      pdf_renderer.py:  470: printSegment: What Problem Does It Solve?
+   ERROR: 2026-03-18 06:16:30,819:      pdf_renderer.py:  217: C:\Users\WIN10 HOME 22H2\Downloads\email project\PROJECT_REPORT.md:15: #3-what-problem-does-it-solve: No such file or directory
+   DEBUG: 2026-03-18 06:16:30,820:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2026-03-18 06:16:30,822:      pdf_renderer.py:  470: printSegment: How Does This Project Work?
+   ERROR: 2026-03-18 06:16:30,824:      pdf_renderer.py:  217: C:\Users\WIN10 HOME 22H2\Downloads\email project\PROJECT_REPORT.md:16: #4-how-does-this-project-work: No such file or directory
+   DEBUG: 2026-03-18 06:16:30,826:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2026-03-18 06:16:30,831:      pdf_renderer.py:  470: printSegment: The Logic Behind the Project
+   ERROR: 2026-03-18 06:16:30,834:      pdf_renderer.py:  217: C:\Users\WIN10 HOME 22H2\Downloads\email project\PROJECT_REPORT.md:17: #5-the-logic-behind-the-project: No such file or directory
+   DEBUG: 2026-03-18 06:16:30,835:      pdf_renderer.py:  470: printSegment:  6 
+   DEBUG: 2026-03-18 06:16:30,838:      pdf_renderer.py:  470: printSegment: The Role of OAuth 2.0
+   ERROR: 2026-03-18 06:16:30,840:      pdf_renderer.py:  217: C:\Users\WIN10 HOME 22H2\Downloads\email project\PROJECT_REPORT.md:18: #6-the-role-of-oauth-20: No such file or directory
+   DEBUG: 2026-03-18 06:16:30,841:      pdf_renderer.py:  470: printSegment:  7 
+   DEBUG: 2026-03-18 06:16:30,845:      pdf_renderer.py:  470: printSegment: Technology Stack
+   ERROR: 2026-03-18 06:16:30,846:      pdf_renderer.py:  217: C:\Users\WIN10 HOME 22H2\Downloads\email project\PROJECT_REPORT.md:19: #7-technology-stack: No such file or directory
+   DEBUG: 2026-03-18 06:16:30,848:      pdf_renderer.py:  470: printSegment:  8 
+   DEBUG: 2026-03-18 06:16:30,850:      pdf_renderer.py:  470: printSegment: Application Flow Diagram
+   ERROR: 2026-03-18 06:16:30,852:      pdf_renderer.py:  217: C:\Users\WIN10 HOME 22H2\Downloads\email project\PROJECT_REPORT.md:20: #8-application-flow-diagram: No such file or directory
+   DEBUG: 2026-03-18 06:16:30,854:      pdf_renderer.py:  470: printSegment:  9 
+   DEBUG: 2026-03-18 06:16:30,857:      pdf_renderer.py:  470: printSegment: Architecture Diagram
+   ERROR: 2026-03-18 06:16:30,860:      pdf_renderer.py:  217: C:\Users\WIN10 HOME 22H2\Downloads\email project\PROJECT_REPORT.md:21: #9-architecture-diagram: No such file or directory
+   DEBUG: 2026-03-18 06:16:30,862:      pdf_renderer.py:  470: printSegment:  10 
+   DEBUG: 2026-03-18 06:16:30,865:      pdf_renderer.py:  470: printSegment: Project File Structure
+   ERROR: 2026-03-18 06:16:30,867:      pdf_renderer.py:  217: C:\Users\WIN10 HOME 22H2\Downloads\email project\PROJECT_REPORT.md:22: #10-project-file-structure: No such file or directory
+   DEBUG: 2026-03-18 06:16:30,869:      pdf_renderer.py:  470: printSegment:  11 
+   DEBUG: 2026-03-18 06:16:30,871:      pdf_renderer.py:  470: printSegment: Security Considerations
+   ERROR: 2026-03-18 06:16:30,873:      pdf_renderer.py:  217: C:\Users\WIN10 HOME 22H2\Downloads\email project\PROJECT_REPORT.md:23: #11-security-considerations: No such file or directory
+   DEBUG: 2026-03-18 06:16:30,874:      pdf_renderer.py:  470: printSegment:  12 
+   DEBUG: 2026-03-18 06:16:30,880:      pdf_renderer.py:  470: printSegment: Deployment Architecture
+   ERROR: 2026-03-18 06:16:30,884:      pdf_renderer.py:  217: C:\Users\WIN10 HOME 22H2\Downloads\email project\PROJECT_REPORT.md:24: #12-deployment-architecture: No such file or directory
+   DEBUG: 2026-03-18 06:16:30,886:      pdf_renderer.py:  470: printSegment:  13 
+   DEBUG: 2026-03-18 06:16:30,890:      pdf_renderer.py:  470: printSegment: Conclusion
+   ERROR: 2026-03-18 06:16:30,892:      pdf_renderer.py:  217: C:\Users\WIN10 HOME 22H2\Downloads\email project\PROJECT_REPORT.md:25: #13-conclusion: No such file or directory
+   DEBUG: 2026-03-18 06:16:30,897:      pdf_renderer.py:  470: printSegment: 1. What is This Project?
+   DEBUG: 2026-03-18 06:16:30,899:      pdf_renderer.py:  470: printSegment: The 
+   DEBUG: 2026-03-18 06:16:30,900:      pdf_renderer.py:  470: printSegment: Email OAuth Client
+   DEBUG: 2026-03-18 06:16:30,996:      pdf_renderer.py:  470: printSegment:  is a web-based email client application built using Python and the Flask web framework.
+   DEBUG: 2026-03-18 06:16:31,030:      pdf_renderer.py:  470: printSegment: It allows users to securely log in with their Google account and view the latest 10 emails from their Gmail inbox — all
+   DEBUG: 2026-03-18 06:16:31,080:      pdf_renderer.py:  470: printSegment: without ever sharing their Google password with the application.
+   DEBUG: 2026-03-18 06:16:31,082:      pdf_renderer.py:  470: printSegment: The application uses 
+   DEBUG: 2026-03-18 06:16:31,084:      pdf_renderer.py:  470: printSegment: OAuth 2.0
+   DEBUG: 2026-03-18 06:16:31,121:      pdf_renderer.py:  470: printSegment:  (Open Authorization), which is the industry-standard protocol used by Google,
+   DEBUG: 2026-03-18 06:16:31,129:      pdf_renderer.py:  470: printSegment: Facebook, GitHub, and virtually every major technology company to allow third-party applications to access user
+   DEBUG: 2026-03-18 06:16:31,131:      pdf_renderer.py:  470: printSegment: data safely.
+   DEBUG: 2026-03-18 06:16:31,190:      pdf_renderer.py:  470: printSegment: In simple terms, think of it like this: instead of giving your house key to a stranger, you open the door yourself and
+   DEBUG: 2026-03-18 06:16:31,206:      pdf_renderer.py:  470: printSegment: allow them to look inside — but they cannot touch or take anything. That is exactly what this application does with your
+   DEBUG: 2026-03-18 06:16:31,208:      pdf_renderer.py:  470: printSegment: Gmail inbox.
+   DEBUG: 2026-03-18 06:16:31,214:      pdf_renderer.py:  470: printSegment: 2. What Does This Project Do?
+   DEBUG: 2026-03-18 06:16:31,219:      pdf_renderer.py:  470: printSegment: The application performs the following core functions:
+   DEBUG: 2026-03-18 06:16:31,223:      pdf_renderer.py:  470: printSegment: | Feature | Description |
+   DEBUG: 2026-03-18 06:16:31,227:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:31,230:      pdf_renderer.py:  470: printSegment: |---|---|
+   DEBUG: 2026-03-18 06:16:31,233:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:31,236:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:31,238:      pdf_renderer.py:  470: printSegment: Google Sign-In
+   DEBUG: 2026-03-18 06:16:31,240:      pdf_renderer.py:  470: printSegment:  | Users click a 
+   DEBUG: 2026-03-18 06:16:31,242:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:31,245:      pdf_renderer.py:  470: printSegment: Login with Google
+   DEBUG: 2026-03-18 06:16:31,247:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:31,249:      pdf_renderer.py:  470: printSegment:  button and are redirected to
+   DEBUG: 2026-03-18 06:16:31,251:      pdf_renderer.py:  470: printSegment: Google
+   DEBUG: 2026-03-18 06:16:31,253:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:31,258:      pdf_renderer.py:  470: printSegment: s official login page. The application never sees or stores the user
+   DEBUG: 2026-03-18 06:16:31,262:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:31,265:      pdf_renderer.py:  470: printSegment: s password. |
+   DEBUG: 2026-03-18 06:16:31,269:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:31,272:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:31,278:      pdf_renderer.py:  470: printSegment: Fetch 10 Latest Emails
+   DEBUG: 2026-03-18 06:16:31,291:      pdf_renderer.py:  470: printSegment:  |
+   DEBUG: 2026-03-18 06:16:31,298:      pdf_renderer.py:  470: printSegment: After login, the application uses the Gmail API to retrieve the 10 most recent emails from the user
+   DEBUG: 2026-03-18 06:16:31,301:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:31,305:      pdf_renderer.py:  470: printSegment: s inbox. |
+   DEBUG: 2026-03-18 06:16:31,307:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:31,309:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:31,314:      pdf_renderer.py:  470: printSegment: Display Email Details
+   DEBUG: 2026-03-18 06:16:31,317:      pdf_renderer.py:  470: printSegment:  | For each email, the application displays the 
+   DEBUG: 2026-03-18 06:16:31,320:      pdf_renderer.py:  470: printSegment: Sender
+   DEBUG: 2026-03-18 06:16:31,322:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-03-18 06:16:31,324:      pdf_renderer.py:  470: printSegment: Subject Line
+   DEBUG: 2026-03-18 06:16:31,326:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-03-18 06:16:31,329:      pdf_renderer.py:  470: printSegment: Date
+   DEBUG: 2026-03-18 06:16:31,331:      pdf_renderer.py:  470: printSegment: , and a short 
+   DEBUG: 2026-03-18 06:16:31,334:      pdf_renderer.py:  470: printSegment: Preview Snippet
+   DEBUG: 2026-03-18 06:16:31,339:      pdf_renderer.py:  470: printSegment:  of the email body. |
+   DEBUG: 2026-03-18 06:16:31,341:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:31,346:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:31,351:      pdf_renderer.py:  470: printSegment: Smart Categorization
+   DEBUG: 2026-03-18 06:16:31,372:      pdf_renderer.py:  470: printSegment:  | Each email is automatically assigned a category
+   DEBUG: 2026-03-18 06:16:31,376:      pdf_renderer.py:  470: printSegment: (Important, Work/Jobs, Social, Notifications, Promotions, or Other) based on the sender and subject line. |
+   DEBUG: 2026-03-18 06:16:31,379:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:31,381:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:31,383:      pdf_renderer.py:  470: printSegment: Search 
+   DEBUG: 2026-03-18 06:16:31,385:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2026-03-18 06:16:31,387:      pdf_renderer.py:  470: printSegment:  Filter
+   DEBUG: 2026-03-18 06:16:31,391:      pdf_renderer.py:  470: printSegment:  | A search bar allows users to filter their emails using keywords or Gmail search operators (e.g., 
+   DEBUG: 2026-03-18 06:16:31,395:      pdf_renderer.py:  470: printSegment: from:linkedin
+   DEBUG: 2026-03-18 06:16:31,400:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-03-18 06:16:31,403:      pdf_renderer.py:  470: printSegment: subject:invoice
+   DEBUG: 2026-03-18 06:16:31,405:      pdf_renderer.py:  470: printSegment: ). |
+   DEBUG: 2026-03-18 06:16:31,407:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:31,410:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:31,414:      pdf_renderer.py:  470: printSegment: Secure Logout
+   DEBUG: 2026-03-18 06:16:31,430:      pdf_renderer.py:  470: printSegment:  | Users can log out at any time, which completely
+   DEBUG: 2026-03-18 06:16:31,433:      pdf_renderer.py:  470: printSegment: clears their session data from the server. |
+   DEBUG: 2026-03-18 06:16:31,439:      pdf_renderer.py:  470: printSegment: 3. What Problem Does It Solve?
+   DEBUG: 2026-03-18 06:16:31,442:      pdf_renderer.py:  470: printSegment: The Problem
+   DEBUG: 2026-03-18 06:16:31,448:      pdf_renderer.py:  470: printSegment: When developers or students need to build an application that reads emails, they face a significant challenge: 
+   DEBUG: 2026-03-18 06:16:31,453:      pdf_renderer.py:  470: printSegment: how
+   DEBUG: 2026-03-18 06:16:31,458:      pdf_renderer.py:  470: printSegment: do you access a user
+   DEBUG: 2026-03-18 06:16:31,460:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:31,466:      pdf_renderer.py:  470: printSegment: s email without asking for their password?
+   DEBUG: 2026-03-18 06:16:31,488:      pdf_renderer.py:  470: printSegment: Traditionally, email clients required users to enter their username and password directly into the application. This
+   DEBUG: 2026-03-18 06:16:31,492:      pdf_renderer.py:  470: printSegment: approach has several serious problems:
+   DEBUG: 2026-03-18 06:16:31,496:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2026-03-18 06:16:31,498:      pdf_renderer.py:  470: printSegment: Security Risk:
+   DEBUG: 2026-03-18 06:16:31,501:      pdf_renderer.py:  470: printSegment:  If the application is compromised, the attacker now has the user
+   DEBUG: 2026-03-18 06:16:31,503:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:31,505:      pdf_renderer.py:  470: printSegment: s password.
+   DEBUG: 2026-03-18 06:16:31,506:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2026-03-18 06:16:31,508:      pdf_renderer.py:  470: printSegment: Trust Issue:
+   DEBUG: 2026-03-18 06:16:31,512:      pdf_renderer.py:  470: printSegment:  Users are understandably reluctant to type their password into an unknown application.
+   DEBUG: 2026-03-18 06:16:31,514:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2026-03-18 06:16:31,516:      pdf_renderer.py:  470: printSegment: No Granular Control:
+   DEBUG: 2026-03-18 06:16:31,527:      pdf_renderer.py:  470: printSegment:  Once you give your password, the application can do anything — read, send,
+   DEBUG: 2026-03-18 06:16:31,529:      pdf_renderer.py:  470: printSegment: delete emails — with no restrictions.
+   DEBUG: 2026-03-18 06:16:31,531:      pdf_renderer.py:  470: printSegment: The Solution
+   DEBUG: 2026-03-18 06:16:31,533:      pdf_renderer.py:  470: printSegment: This project solves all three problems by implementing 
+   DEBUG: 2026-03-18 06:16:31,536:      pdf_renderer.py:  470: printSegment: OAuth 2.0
+   DEBUG: 2026-03-18 06:16:31,538:      pdf_renderer.py:  470: printSegment: :
+   DEBUG: 2026-03-18 06:16:31,540:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2026-03-18 06:16:31,542:      pdf_renderer.py:  470: printSegment: No password is ever shared.
+   DEBUG: 2026-03-18 06:16:31,545:      pdf_renderer.py:  470: printSegment:  The user logs in directly on Google
+   DEBUG: 2026-03-18 06:16:31,547:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:31,548:      pdf_renderer.py:  470: printSegment: s own website.
+   DEBUG: 2026-03-18 06:16:31,550:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2026-03-18 06:16:31,552:      pdf_renderer.py:  470: printSegment: Trust is established through Google.
+   DEBUG: 2026-03-18 06:16:31,556:      pdf_renderer.py:  470: printSegment:  Users see Google
+   DEBUG: 2026-03-18 06:16:31,560:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:31,565:      pdf_renderer.py:  470: printSegment: s familiar login page, not a random form.
+   DEBUG: 2026-03-18 06:16:31,569:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2026-03-18 06:16:31,573:      pdf_renderer.py:  470: printSegment: Granular permissions.
+   DEBUG: 2026-03-18 06:16:31,578:      pdf_renderer.py:  470: printSegment:  The application only requests 
+   DEBUG: 2026-03-18 06:16:31,581:      pdf_renderer.py:  470: printSegment: gmail.readonly
+   DEBUG: 2026-03-18 06:16:31,587:      pdf_renderer.py:  470: printSegment:  access — it can read emails
+   DEBUG: 2026-03-18 06:16:31,591:      pdf_renderer.py:  470: printSegment: but 
+   DEBUG: 2026-03-18 06:16:31,594:      pdf_renderer.py:  470: printSegment: cannot
+   DEBUG: 2026-03-18 06:16:31,599:      pdf_renderer.py:  470: printSegment:  send, modify, or delete anything.
+   DEBUG: 2026-03-18 06:16:31,603:      pdf_renderer.py:  470: printSegment: 4. How Does This Project Work?
+   DEBUG: 2026-03-18 06:16:31,608:      pdf_renderer.py:  470: printSegment: Here is a step-by-step walkthrough of exactly what happens when a user uses the application:
+   DEBUG: 2026-03-18 06:16:31,612:      pdf_renderer.py:  470: printSegment: Step 1: User Visits the Application
+   DEBUG: 2026-03-18 06:16:31,614:      pdf_renderer.py:  470: printSegment: The user opens 
+   DEBUG: 2026-03-18 06:16:31,616:      pdf_renderer.py:  470: printSegment: https://email-oauth-client.onrender.com
+   DEBUG: 2026-03-18 06:16:31,627:      pdf_renderer.py:  470: printSegment:  in their browser. They see a clean,
+   DEBUG: 2026-03-18 06:16:31,629:      pdf_renderer.py:  470: printSegment: dark-themed login page with a 
+   DEBUG: 2026-03-18 06:16:31,631:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:31,633:      pdf_renderer.py:  470: printSegment: Login with Google
+   DEBUG: 2026-03-18 06:16:31,635:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:31,638:      pdf_renderer.py:  470: printSegment:  button.
+   DEBUG: 2026-03-18 06:16:31,640:      pdf_renderer.py:  470: printSegment: Step 2: User Clicks 
+   DEBUG: 2026-03-18 06:16:31,642:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:31,644:      pdf_renderer.py:  470: printSegment: Login with Google
+   DEBUG: 2026-03-18 06:16:31,646:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:31,649:      pdf_renderer.py:  470: printSegment: The application generates a special URL that points to Google
+   DEBUG: 2026-03-18 06:16:31,651:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:31,653:      pdf_renderer.py:  470: printSegment: s OAuth consent screen. This URL contains:
+   DEBUG: 2026-03-18 06:16:31,655:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:31,660:      pdf_renderer.py:  470: printSegment: The application
+   DEBUG: 2026-03-18 06:16:31,667:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:31,669:      pdf_renderer.py:  470: printSegment: s 
+   DEBUG: 2026-03-18 06:16:31,672:      pdf_renderer.py:  470: printSegment: Client ID
+   DEBUG: 2026-03-18 06:16:31,674:      pdf_renderer.py:  470: printSegment:  (a unique identifier registered with Google).
+   DEBUG: 2026-03-18 06:16:31,677:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:31,680:      pdf_renderer.py:  470: printSegment: The 
+   DEBUG: 2026-03-18 06:16:31,682:      pdf_renderer.py:  470: printSegment: scope
+   DEBUG: 2026-03-18 06:16:31,684:      pdf_renderer.py:  470: printSegment:  (
+   DEBUG: 2026-03-18 06:16:31,686:      pdf_renderer.py:  470: printSegment: gmail.readonly
+   DEBUG: 2026-03-18 06:16:31,691:      pdf_renderer.py:  470: printSegment: ) — telling Google exactly what permission is being requested.
+   DEBUG: 2026-03-18 06:16:31,696:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:31,700:      pdf_renderer.py:  470: printSegment: A 
+   DEBUG: 2026-03-18 06:16:31,702:      pdf_renderer.py:  470: printSegment: redirect URI
+   DEBUG: 2026-03-18 06:16:31,705:      pdf_renderer.py:  470: printSegment:  — the URL where Google should send the user back after login.
+   DEBUG: 2026-03-18 06:16:31,707:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:31,711:      pdf_renderer.py:  470: printSegment: A 
+   DEBUG: 2026-03-18 06:16:31,713:      pdf_renderer.py:  470: printSegment: state token
+   DEBUG: 2026-03-18 06:16:31,717:      pdf_renderer.py:  470: printSegment:  — a random string to prevent forgery attacks (CSRF protection).
+   DEBUG: 2026-03-18 06:16:31,720:      pdf_renderer.py:  470: printSegment: Step 3: User Logs In on Google
+   DEBUG: 2026-03-18 06:16:31,722:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:31,724:      pdf_renderer.py:  470: printSegment: s Website
+   DEBUG: 2026-03-18 06:16:31,728:      pdf_renderer.py:  470: printSegment: The user is now on Google
+   DEBUG: 2026-03-18 06:16:31,732:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:31,746:      pdf_renderer.py:  470: printSegment: s official website (accounts.google.com). They enter their Google email and password
+   DEBUG: 2026-03-18 06:16:31,750:      pdf_renderer.py:  470: printSegment: directly on Google
+   DEBUG: 2026-03-18 06:16:31,754:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:31,759:      pdf_renderer.py:  470: printSegment: s page. The application never sees this information.
+   DEBUG: 2026-03-18 06:16:31,763:      pdf_renderer.py:  470: printSegment: Step 4: User Grants Permission
+   DEBUG: 2026-03-18 06:16:31,770:      pdf_renderer.py:  470: printSegment: Google shows the user a consent screen explaining that 
+   DEBUG: 2026-03-18 06:16:31,775:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:31,779:      pdf_renderer.py:  470: printSegment: Email OAuth Client wants to view your Gmail messages.
+   DEBUG: 2026-03-18 06:16:31,781:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:31,784:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2026-03-18 06:16:31,785:      pdf_renderer.py:  470: printSegment: The user clicks 
+   DEBUG: 2026-03-18 06:16:31,788:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:31,790:      pdf_renderer.py:  470: printSegment: Allow.
+   DEBUG: 2026-03-18 06:16:31,794:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:31,800:      pdf_renderer.py:  470: printSegment: Step 5: Google Sends Back an Authorization Code
+   DEBUG: 2026-03-18 06:16:31,803:      pdf_renderer.py:  470: printSegment: Google redirects the user back to the application
+   DEBUG: 2026-03-18 06:16:31,805:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:31,808:      pdf_renderer.py:  470: printSegment: s callback URL (
+   DEBUG: 2026-03-18 06:16:31,811:      pdf_renderer.py:  470: printSegment: /oauth2callback
+   DEBUG: 2026-03-18 06:16:31,813:      pdf_renderer.py:  470: printSegment: ) with a temporary 
+   DEBUG: 2026-03-18 06:16:31,815:      pdf_renderer.py:  470: printSegment: authorization code
+   DEBUG: 2026-03-18 06:16:31,819:      pdf_renderer.py:  470: printSegment:  in the URL.
+   DEBUG: 2026-03-18 06:16:31,824:      pdf_renderer.py:  470: printSegment: Step 6: Application Exchanges the Code for an Access Token
+   DEBUG: 2026-03-18 06:16:31,828:      pdf_renderer.py:  470: printSegment: The application
+   DEBUG: 2026-03-18 06:16:31,829:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:31,832:      pdf_renderer.py:  470: printSegment: s backend (Python server) takes this authorization code and sends it directly to Google
+   DEBUG: 2026-03-18 06:16:31,833:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:31,836:      pdf_renderer.py:  470: printSegment: s token server
+   DEBUG: 2026-03-18 06:16:31,838:      pdf_renderer.py:  470: printSegment: along with the application
+   DEBUG: 2026-03-18 06:16:31,840:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:31,841:      pdf_renderer.py:  470: printSegment: s 
+   DEBUG: 2026-03-18 06:16:31,843:      pdf_renderer.py:  470: printSegment: Client Secret
+   DEBUG: 2026-03-18 06:16:31,850:      pdf_renderer.py:  470: printSegment:  (a private password only the server knows). Google verifies everything
+   DEBUG: 2026-03-18 06:16:31,852:      pdf_renderer.py:  470: printSegment: and responds with an 
+   DEBUG: 2026-03-18 06:16:31,854:      pdf_renderer.py:  470: printSegment: Access Token
+   DEBUG: 2026-03-18 06:16:31,856:      pdf_renderer.py:  470: printSegment: .
+   DEBUG: 2026-03-18 06:16:31,861:      pdf_renderer.py:  470: printSegment: Step 7: Application Fetches Emails Using the Access Token
+   DEBUG: 2026-03-18 06:16:31,880:      pdf_renderer.py:  470: printSegment: The application uses this Access Token to make an authorized request to the Gmail API. It asks for the 10 most
+   DEBUG: 2026-03-18 06:16:31,882:      pdf_renderer.py:  470: printSegment: recent emails in the user
+   DEBUG: 2026-03-18 06:16:31,883:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:31,886:      pdf_renderer.py:  470: printSegment: s inbox. The Gmail API returns the email data.
+   DEBUG: 2026-03-18 06:16:31,888:      pdf_renderer.py:  470: printSegment: Step 8: Emails Are Displayed
+   DEBUG: 2026-03-18 06:16:31,921:      pdf_renderer.py:  470: printSegment: The application processes the raw email data, categorizes each email, and renders a beautiful inbox page showing all
+   DEBUG: 2026-03-18 06:16:31,927:      pdf_renderer.py:  470: printSegment: 10 emails with their sender, subject, date, preview, and category badge.
+   DEBUG: 2026-03-18 06:16:31,934:      pdf_renderer.py:  470: printSegment: 5. The Logic Behind the Project
+   DEBUG: 2026-03-18 06:16:31,939:      pdf_renderer.py:  470: printSegment: File-by-File Breakdown
+   DEBUG: 2026-03-18 06:16:31,944:      pdf_renderer.py:  470: printSegment: The project is organized into clearly separated modules, each handling one specific responsibility:
+   DEBUG: 2026-03-18 06:16:31,948:      pdf_renderer.py:  470: printSegment: config.py
+   DEBUG: 2026-03-18 06:16:31,951:      pdf_renderer.py:  470: printSegment:  — Configuration Manager
+   DEBUG: 2026-03-18 06:16:31,954:      pdf_renderer.py:  470: printSegment: This file loads all sensitive information (Client ID, Client Secret, Flask Secret Key) from 
+   DEBUG: 2026-03-18 06:16:31,957:      pdf_renderer.py:  470: printSegment: environment variables
+   DEBUG: 2026-03-18 06:16:31,970:      pdf_renderer.py:  470: printSegment: . It
+   DEBUG: 2026-03-18 06:16:31,973:      pdf_renderer.py:  470: printSegment: never hardcodes secrets. It also defines the Gmail API scope (
+   DEBUG: 2026-03-18 06:16:31,977:      pdf_renderer.py:  470: printSegment: gmail.readonly
+   DEBUG: 2026-03-18 06:16:31,981:      pdf_renderer.py:  470: printSegment: ) and the OAuth redirect URI.
+   DEBUG: 2026-03-18 06:16:31,985:      pdf_renderer.py:  470: printSegment: auth.py
+   DEBUG: 2026-03-18 06:16:31,990:      pdf_renderer.py:  470: printSegment:  — OAuth Authentication Engine
+   DEBUG: 2026-03-18 06:16:31,994:      pdf_renderer.py:  470: printSegment: This file contains the core OAuth logic:
+   DEBUG: 2026-03-18 06:16:31,996:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:31,999:      pdf_renderer.py:  470: printSegment: get_auth_flow()
+   DEBUG: 2026-03-18 06:16:32,002:      pdf_renderer.py:  470: printSegment:  — Creates a Google OAuth Flow object configured with the application
+   DEBUG: 2026-03-18 06:16:32,006:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:32,011:      pdf_renderer.py:  470: printSegment: s
+   DEBUG: 2026-03-18 06:16:32,013:      pdf_renderer.py:  470: printSegment: credentials.
+   DEBUG: 2026-03-18 06:16:32,015:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:32,017:      pdf_renderer.py:  470: printSegment: get_authorization_url()
+   DEBUG: 2026-03-18 06:16:32,024:      pdf_renderer.py:  470: printSegment:  — Generates the Google consent screen URL with the correct
+   DEBUG: 2026-03-18 06:16:32,028:      pdf_renderer.py:  470: printSegment: parameters.
+   DEBUG: 2026-03-18 06:16:32,032:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:32,036:      pdf_renderer.py:  470: printSegment: exchange_code_for_credentials()
+   DEBUG: 2026-03-18 06:16:32,048:      pdf_renderer.py:  470: printSegment:  — Takes the temporary authorization code from Google
+   DEBUG: 2026-03-18 06:16:32,051:      pdf_renderer.py:  470: printSegment: and exchanges it for a permanent Access Token.
+   DEBUG: 2026-03-18 06:16:32,053:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:32,055:      pdf_renderer.py:  470: printSegment: credentials_to_session()
+   DEBUG: 2026-03-18 06:16:32,057:      pdf_renderer.py:  470: printSegment:  / 
+   DEBUG: 2026-03-18 06:16:32,060:      pdf_renderer.py:  470: printSegment: credentials_from_session()
+   DEBUG: 2026-03-18 06:16:32,078:      pdf_renderer.py:  470: printSegment:  — Converts OAuth
+   DEBUG: 2026-03-18 06:16:32,085:      pdf_renderer.py:  470: printSegment: credentials to/from a format that can be stored in Flask
+   DEBUG: 2026-03-18 06:16:32,089:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:32,094:      pdf_renderer.py:  470: printSegment: s encrypted session cookie.
+   DEBUG: 2026-03-18 06:16:32,099:      pdf_renderer.py:  470: printSegment: gmail_service.py
+   DEBUG: 2026-03-18 06:16:32,105:      pdf_renderer.py:  470: printSegment:  — Gmail API Communication
+   DEBUG: 2026-03-18 06:16:32,111:      pdf_renderer.py:  470: printSegment: This file handles all communication with Google
+   DEBUG: 2026-03-18 06:16:32,113:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:32,115:      pdf_renderer.py:  470: printSegment: s Gmail API:
+   DEBUG: 2026-03-18 06:16:32,118:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:32,123:      pdf_renderer.py:  470: printSegment: get_gmail_service()
+   DEBUG: 2026-03-18 06:16:32,130:      pdf_renderer.py:  470: printSegment:  — Builds an authorized Gmail API service object using the user
+   DEBUG: 2026-03-18 06:16:32,134:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:32,138:      pdf_renderer.py:  470: printSegment: s Access
+   DEBUG: 2026-03-18 06:16:32,141:      pdf_renderer.py:  470: printSegment: Token.
+   DEBUG: 2026-03-18 06:16:32,146:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:32,150:      pdf_renderer.py:  470: printSegment: fetch_latest_emails()
+   DEBUG: 2026-03-18 06:16:32,155:      pdf_renderer.py:  470: printSegment:  — Uses 
+   DEBUG: 2026-03-18 06:16:32,160:      pdf_renderer.py:  470: printSegment: HTTP Batch Requests
+   DEBUG: 2026-03-18 06:16:32,223:      pdf_renderer.py:  470: printSegment:  (a performance optimization) to fetch
+   DEBUG: 2026-03-18 06:16:32,233:      pdf_renderer.py:  470: printSegment: all 10 emails in a single network round-trip instead of making 10 separate requests. Each email is
+   DEBUG: 2026-03-18 06:16:32,239:      pdf_renderer.py:  470: printSegment: then passed through the categorizer.
+   DEBUG: 2026-03-18 06:16:32,245:      pdf_renderer.py:  470: printSegment: utils/email_classifier.py
+   DEBUG: 2026-03-18 06:16:32,249:      pdf_renderer.py:  470: printSegment:  — Smart Email Categorizer
+   DEBUG: 2026-03-18 06:16:32,255:      pdf_renderer.py:  470: printSegment: This file contains a keyword-based classification engine that assigns each email to one of six categories:
+   DEBUG: 2026-03-18 06:16:32,261:      pdf_renderer.py:  470: printSegment: | Category | Detection Logic |
+   DEBUG: 2026-03-18 06:16:32,262:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,264:      pdf_renderer.py:  470: printSegment: |---|---|
+   DEBUG: 2026-03-18 06:16:32,265:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,267:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:32,269:      pdf_renderer.py:  470: printSegment: Important
+   DEBUG: 2026-03-18 06:16:32,271:      pdf_renderer.py:  470: printSegment:  | Subject or sender contains: 
+   DEBUG: 2026-03-18 06:16:32,273:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,274:      pdf_renderer.py:  470: printSegment: security
+   DEBUG: 2026-03-18 06:16:32,276:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,278:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-03-18 06:16:32,279:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,281:      pdf_renderer.py:  470: printSegment: alert
+   DEBUG: 2026-03-18 06:16:32,282:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,284:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-03-18 06:16:32,285:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,287:      pdf_renderer.py:  470: printSegment: verification
+   DEBUG: 2026-03-18 06:16:32,288:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,290:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-03-18 06:16:32,291:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,294:      pdf_renderer.py:  470: printSegment: password
+   DEBUG: 2026-03-18 06:16:32,295:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,297:      pdf_renderer.py:  470: printSegment:  |
+   DEBUG: 2026-03-18 06:16:32,299:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,300:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:32,302:      pdf_renderer.py:  470: printSegment: Work / Jobs
+   DEBUG: 2026-03-18 06:16:32,305:      pdf_renderer.py:  470: printSegment:  | Subject contains job-related keywords, or sender is Indeed, LinkedIn, Glassdoor |
+   DEBUG: 2026-03-18 06:16:32,308:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,311:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:32,313:      pdf_renderer.py:  470: printSegment: Social
+   DEBUG: 2026-03-18 06:16:32,317:      pdf_renderer.py:  470: printSegment:  | Sender domain is linkedin.com, twitter.com, facebook.com, or instagram.com |
+   DEBUG: 2026-03-18 06:16:32,319:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,320:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:32,322:      pdf_renderer.py:  470: printSegment: Notifications
+   DEBUG: 2026-03-18 06:16:32,324:      pdf_renderer.py:  470: printSegment:  | Subject
+   DEBUG: 2026-03-18 06:16:32,327:      pdf_renderer.py:  470: printSegment: contains: 
+   DEBUG: 2026-03-18 06:16:32,330:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,333:      pdf_renderer.py:  470: printSegment: notification
+   DEBUG: 2026-03-18 06:16:32,336:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,339:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-03-18 06:16:32,341:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,346:      pdf_renderer.py:  470: printSegment: update
+   DEBUG: 2026-03-18 06:16:32,349:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,353:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-03-18 06:16:32,355:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,356:      pdf_renderer.py:  470: printSegment: activity
+   DEBUG: 2026-03-18 06:16:32,358:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,361:      pdf_renderer.py:  470: printSegment:  |
+   DEBUG: 2026-03-18 06:16:32,364:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,367:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:32,370:      pdf_renderer.py:  470: printSegment: Promotions
+   DEBUG: 2026-03-18 06:16:32,373:      pdf_renderer.py:  470: printSegment:  | Subject contains: 
+   DEBUG: 2026-03-18 06:16:32,374:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,377:      pdf_renderer.py:  470: printSegment: sale
+   DEBUG: 2026-03-18 06:16:32,380:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,383:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-03-18 06:16:32,387:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,390:      pdf_renderer.py:  470: printSegment: offer
+   DEBUG: 2026-03-18 06:16:32,394:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,397:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-03-18 06:16:32,400:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,404:      pdf_renderer.py:  470: printSegment: discount
+   DEBUG: 2026-03-18 06:16:32,407:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,411:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-03-18 06:16:32,421:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,424:      pdf_renderer.py:  470: printSegment: deal
+   DEBUG: 2026-03-18 06:16:32,427:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,429:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-03-18 06:16:32,431:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,432:      pdf_renderer.py:  470: printSegment: promotion
+   DEBUG: 2026-03-18 06:16:32,434:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,436:      pdf_renderer.py:  470: printSegment:  |
+   DEBUG: 2026-03-18 06:16:32,438:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,439:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:32,441:      pdf_renderer.py:  470: printSegment: Other
+   DEBUG: 2026-03-18 06:16:32,446:      pdf_renderer.py:  470: printSegment:  | Default category if no keywords match |
+   DEBUG: 2026-03-18 06:16:32,448:      pdf_renderer.py:  470: printSegment: app.py
+   DEBUG: 2026-03-18 06:16:32,451:      pdf_renderer.py:  470: printSegment:  — Flask Web Server (The Central Hub)
+   DEBUG: 2026-03-18 06:16:32,457:      pdf_renderer.py:  470: printSegment: This is the main application file that ties everything together. It defines five routes:
+   DEBUG: 2026-03-18 06:16:32,463:      pdf_renderer.py:  470: printSegment: | Route | Purpose |
+   DEBUG: 2026-03-18 06:16:32,466:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,470:      pdf_renderer.py:  470: printSegment: |---|---|
+   DEBUG: 2026-03-18 06:16:32,472:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,474:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:32,477:      pdf_renderer.py:  470: printSegment: GET /
+   DEBUG: 2026-03-18 06:16:32,479:      pdf_renderer.py:  470: printSegment:  | Renders the login page |
+   DEBUG: 2026-03-18 06:16:32,481:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,482:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:32,484:      pdf_renderer.py:  470: printSegment: GET /login
+   DEBUG: 2026-03-18 06:16:32,487:      pdf_renderer.py:  470: printSegment:  | Redirects the user to Google
+   DEBUG: 2026-03-18 06:16:32,488:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:32,491:      pdf_renderer.py:  470: printSegment: s OAuth
+   DEBUG: 2026-03-18 06:16:32,494:      pdf_renderer.py:  470: printSegment: consent screen |
+   DEBUG: 2026-03-18 06:16:32,496:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,498:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:32,500:      pdf_renderer.py:  470: printSegment: GET /oauth2callback
+   DEBUG: 2026-03-18 06:16:32,502:      pdf_renderer.py:  470: printSegment:  | Handles Google
+   DEBUG: 2026-03-18 06:16:32,504:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:32,509:      pdf_renderer.py:  470: printSegment: s redirect after user grants permission |
+   DEBUG: 2026-03-18 06:16:32,512:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,516:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:32,520:      pdf_renderer.py:  470: printSegment: GET
+   DEBUG: 2026-03-18 06:16:32,525:      pdf_renderer.py:  470: printSegment: /emails
+   DEBUG: 2026-03-18 06:16:32,530:      pdf_renderer.py:  470: printSegment:  | Fetches and displays the user
+   DEBUG: 2026-03-18 06:16:32,531:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:32,534:      pdf_renderer.py:  470: printSegment: s 10 latest emails |
+   DEBUG: 2026-03-18 06:16:32,536:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,538:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:32,540:      pdf_renderer.py:  470: printSegment: GET /logout
+   DEBUG: 2026-03-18 06:16:32,546:      pdf_renderer.py:  470: printSegment:  | Clears the session and redirects to
+   DEBUG: 2026-03-18 06:16:32,551:      pdf_renderer.py:  470: printSegment: the home page |
+   DEBUG: 2026-03-18 06:16:32,558:      pdf_renderer.py:  470: printSegment: 6. The Role of OAuth 2.0
+   DEBUG: 2026-03-18 06:16:32,562:      pdf_renderer.py:  470: printSegment: What is OAuth 2.0?
+   DEBUG: 2026-03-18 06:16:32,564:      pdf_renderer.py:  470: printSegment: OAuth 2.0
+   DEBUG: 2026-03-18 06:16:32,578:      pdf_renderer.py:  470: printSegment:  (Open Authorization 2.0) is an industry-standard authorization framework. It allows a third-party
+   DEBUG: 2026-03-18 06:16:32,581:      pdf_renderer.py:  470: printSegment: application to obtain limited access to a user
+   DEBUG: 2026-03-18 06:16:32,583:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:32,587:      pdf_renderer.py:  470: printSegment: s account on another service (like Google, Facebook, or GitHub) 
+   DEBUG: 2026-03-18 06:16:32,592:      pdf_renderer.py:  470: printSegment: without the user ever revealing their password
+   DEBUG: 2026-03-18 06:16:32,595:      pdf_renderer.py:  470: printSegment:  to the third-party application.
+   DEBUG: 2026-03-18 06:16:32,598:      pdf_renderer.py:  470: printSegment: How OAuth 2.0 Works in This Project
+   DEBUG: 2026-03-18 06:16:32,600:      pdf_renderer.py:  470: printSegment: There are 
+   DEBUG: 2026-03-18 06:16:32,603:      pdf_renderer.py:  470: printSegment: four participants
+   DEBUG: 2026-03-18 06:16:32,608:      pdf_renderer.py:  470: printSegment:  in the OAuth flow:
+   DEBUG: 2026-03-18 06:16:32,614:      pdf_renderer.py:  470: printSegment: | Participant | Role in This Project |
+   DEBUG: 2026-03-18 06:16:32,617:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,621:      pdf_renderer.py:  470: printSegment: |---|---|
+   DEBUG: 2026-03-18 06:16:32,625:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,629:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:32,631:      pdf_renderer.py:  470: printSegment: Resource Owner
+   DEBUG: 2026-03-18 06:16:32,634:      pdf_renderer.py:  470: printSegment:  | The user (you) who owns the Gmail account |
+   DEBUG: 2026-03-18 06:16:32,636:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,639:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:32,644:      pdf_renderer.py:  470: printSegment: Client
+   DEBUG: 2026-03-18 06:16:32,651:      pdf_renderer.py:  470: printSegment:  | The Email OAuth Client application (our Flask app) |
+   DEBUG: 2026-03-18 06:16:32,655:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,657:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:32,660:      pdf_renderer.py:  470: printSegment: Authorization Server
+   DEBUG: 2026-03-18 06:16:32,663:      pdf_renderer.py:  470: printSegment:  | Google
+   DEBUG: 2026-03-18 06:16:32,665:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:32,669:      pdf_renderer.py:  470: printSegment: s OAuth server
+   DEBUG: 2026-03-18 06:16:32,671:      pdf_renderer.py:  470: printSegment: (accounts.google.com) |
+   DEBUG: 2026-03-18 06:16:32,673:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,676:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:32,679:      pdf_renderer.py:  470: printSegment: Resource Server
+   DEBUG: 2026-03-18 06:16:32,682:      pdf_renderer.py:  470: printSegment:  | Gmail API (googleapis.com) |
+   DEBUG: 2026-03-18 06:16:32,686:      pdf_renderer.py:  470: printSegment: The OAuth 2.0 Flow (Authorization Code Grant)
+   DEBUG: 2026-03-18 06:16:32,691:      pdf_renderer.py:  470: printSegment: This project uses the 
+   DEBUG: 2026-03-18 06:16:32,696:      pdf_renderer.py:  470: printSegment: Authorization Code Grant
+   DEBUG: 2026-03-18 06:16:32,703:      pdf_renderer.py:  470: printSegment:  flow, which is the most secure OAuth flow for web applications:
+   DEBUG: 2026-03-18 06:16:32,708:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2026-03-18 06:16:32,712:      pdf_renderer.py:  470: printSegment: Client → Authorization Server:
+   DEBUG: 2026-03-18 06:16:32,767:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,770:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,772:      pdf_renderer.py:  470: printSegment: I am app X, and I want to read this user
+   DEBUG: 2026-03-18 06:16:32,775:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:32,778:      pdf_renderer.py:  470: printSegment: s Gmail.
+   DEBUG: 2026-03-18 06:16:32,780:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,782:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2026-03-18 06:16:32,786:      pdf_renderer.py:  470: printSegment: Authorization Server → User:
+   DEBUG: 2026-03-18 06:16:32,788:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,790:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,794:      pdf_renderer.py:  470: printSegment: App X wants to read your Gmail. Do you allow this?
+   DEBUG: 2026-03-18 06:16:32,797:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,799:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2026-03-18 06:16:32,802:      pdf_renderer.py:  470: printSegment: User → Authorization Server:
+   DEBUG: 2026-03-18 06:16:32,804:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,807:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,813:      pdf_renderer.py:  470: printSegment: Yes, I allow it.
+   DEBUG: 2026-03-18 06:16:32,818:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,821:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2026-03-18 06:16:32,824:      pdf_renderer.py:  470: printSegment: Authorization Server → Client:
+   DEBUG: 2026-03-18 06:16:32,828:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,832:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,836:      pdf_renderer.py:  470: printSegment: Here is a temporary authorization code.
+   DEBUG: 2026-03-18 06:16:32,839:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,844:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2026-03-18 06:16:32,847:      pdf_renderer.py:  470: printSegment: Client → Authorization Server:
+   DEBUG: 2026-03-18 06:16:32,850:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,854:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,857:      pdf_renderer.py:  470: printSegment: Here is the code + my secret password. Give me an Access Token.
+   DEBUG: 2026-03-18 06:16:32,860:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,865:      pdf_renderer.py:  470: printSegment:  6 
+   DEBUG: 2026-03-18 06:16:32,871:      pdf_renderer.py:  470: printSegment: Authorization Server → Client:
+   DEBUG: 2026-03-18 06:16:32,877:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,881:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,891:      pdf_renderer.py:  470: printSegment: Verified. Here is your Access Token.
+   DEBUG: 2026-03-18 06:16:32,896:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,901:      pdf_renderer.py:  470: printSegment:  7 
+   DEBUG: 2026-03-18 06:16:32,907:      pdf_renderer.py:  470: printSegment: Client → Resource Server:
+   DEBUG: 2026-03-18 06:16:32,911:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,913:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,917:      pdf_renderer.py:  470: printSegment: Here is my Access Token. Give me the user
+   DEBUG: 2026-03-18 06:16:32,920:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:32,923:      pdf_renderer.py:  470: printSegment: s emails.
+   DEBUG: 2026-03-18 06:16:32,927:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,933:      pdf_renderer.py:  470: printSegment:  8 
+   DEBUG: 2026-03-18 06:16:32,939:      pdf_renderer.py:  470: printSegment: Resource Server → Client:
+   DEBUG: 2026-03-18 06:16:32,944:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,949:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,954:      pdf_renderer.py:  470: printSegment: Token is valid. Here are the 10 latest emails.
+   DEBUG: 2026-03-18 06:16:32,957:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-03-18 06:16:32,961:      pdf_renderer.py:  470: printSegment: Why OAuth 2.0 is Important
+   DEBUG: 2026-03-18 06:16:32,969:      pdf_renderer.py:  470: printSegment: | Without OAuth | With OAuth |
+   DEBUG: 2026-03-18 06:16:32,975:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,979:      pdf_renderer.py:  470: printSegment: |---|---|
+   DEBUG: 2026-03-18 06:16:32,982:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:32,985:      pdf_renderer.py:  470: printSegment: | User gives password to the app | User logs in only on Google
+   DEBUG: 2026-03-18 06:16:32,988:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:32,991:      pdf_renderer.py:  470: printSegment: s page |
+   DEBUG: 2026-03-18 06:16:32,995:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,001:      pdf_renderer.py:  470: printSegment: | App
+   DEBUG: 2026-03-18 06:16:33,004:      pdf_renderer.py:  470: printSegment: has full account access | App only gets 
+   DEBUG: 2026-03-18 06:16:33,008:      pdf_renderer.py:  470: printSegment: gmail.readonly
+   DEBUG: 2026-03-18 06:16:33,012:      pdf_renderer.py:  470: printSegment:  permission |
+   DEBUG: 2026-03-18 06:16:33,014:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,027:      pdf_renderer.py:  470: printSegment: | If app is hacked, password is exposed | If
+   DEBUG: 2026-03-18 06:16:33,035:      pdf_renderer.py:  470: printSegment: app is hacked, only a temporary token is exposed |
+   DEBUG: 2026-03-18 06:16:33,039:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,048:      pdf_renderer.py:  470: printSegment: | User cannot revoke access easily | User can revoke access
+   DEBUG: 2026-03-18 06:16:33,051:      pdf_renderer.py:  470: printSegment: anytime from Google Settings |
+   DEBUG: 2026-03-18 06:16:33,057:      pdf_renderer.py:  470: printSegment: The Scope: 
+   DEBUG: 2026-03-18 06:16:33,061:      pdf_renderer.py:  470: printSegment: gmail.readonly
+   DEBUG: 2026-03-18 06:16:33,066:      pdf_renderer.py:  470: printSegment: The application only requests the 
+   DEBUG: 2026-03-18 06:16:33,068:      pdf_renderer.py:  470: printSegment: gmail.readonly
+   DEBUG: 2026-03-18 06:16:33,070:      pdf_renderer.py:  470: printSegment:  scope. This means:
+   DEBUG: 2026-03-18 06:16:33,072:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:33,074:      pdf_renderer.py:  470: printSegment: ✅ Can read email messages
+   DEBUG: 2026-03-18 06:16:33,121:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:33,124:      pdf_renderer.py:  470: printSegment: ✅ Can list emails in the inbox
+   DEBUG: 2026-03-18 06:16:33,127:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:33,129:      pdf_renderer.py:  470: printSegment: ❌ Cannot send emails
+   DEBUG: 2026-03-18 06:16:33,177:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:33,179:      pdf_renderer.py:  470: printSegment: ❌ Cannot delete emails
+   DEBUG: 2026-03-18 06:16:33,180:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:33,182:      pdf_renderer.py:  470: printSegment: ❌ Cannot modify labels or settings
+   DEBUG: 2026-03-18 06:16:33,184:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:33,187:      pdf_renderer.py:  470: printSegment: ❌ Cannot access Google Drive, Calendar, or any other Google service
+   DEBUG: 2026-03-18 06:16:33,190:      pdf_renderer.py:  470: printSegment: 7. Technology Stack
+   DEBUG: 2026-03-18 06:16:33,192:      pdf_renderer.py:  470: printSegment: Backend
+   DEBUG: 2026-03-18 06:16:33,195:      pdf_renderer.py:  470: printSegment: | Technology | Version | Purpose |
+   DEBUG: 2026-03-18 06:16:33,196:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,198:      pdf_renderer.py:  470: printSegment: |---|---|---|
+   DEBUG: 2026-03-18 06:16:33,200:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,201:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,203:      pdf_renderer.py:  470: printSegment: Python
+   DEBUG: 2026-03-18 06:16:33,210:      pdf_renderer.py:  470: printSegment:  | 3.11+ | Core programming language |
+   DEBUG: 2026-03-18 06:16:33,213:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,216:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,219:      pdf_renderer.py:  470: printSegment: Flask
+   DEBUG: 2026-03-18 06:16:33,232:      pdf_renderer.py:  470: printSegment:  | 3.1.0 |
+   DEBUG: 2026-03-18 06:16:33,238:      pdf_renderer.py:  470: printSegment: Lightweight web framework for routing, sessions, and templating |
+   DEBUG: 2026-03-18 06:16:33,241:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,244:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,249:      pdf_renderer.py:  470: printSegment: google-api-python-client
+   DEBUG: 2026-03-18 06:16:33,261:      pdf_renderer.py:  470: printSegment:  | 2.166.0 | Official
+   DEBUG: 2026-03-18 06:16:33,267:      pdf_renderer.py:  470: printSegment: Google API client library for accessing Gmail API |
+   DEBUG: 2026-03-18 06:16:33,270:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,272:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,276:      pdf_renderer.py:  470: printSegment: google-auth
+   DEBUG: 2026-03-18 06:16:33,278:      pdf_renderer.py:  470: printSegment:  | 2.38.0 | Google
+   DEBUG: 2026-03-18 06:16:33,280:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:33,284:      pdf_renderer.py:  470: printSegment: s authentication library for
+   DEBUG: 2026-03-18 06:16:33,286:      pdf_renderer.py:  470: printSegment: handling OAuth tokens |
+   DEBUG: 2026-03-18 06:16:33,288:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,290:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,293:      pdf_renderer.py:  470: printSegment: google-auth-oauthlib
+   DEBUG: 2026-03-18 06:16:33,297:      pdf_renderer.py:  470: printSegment:  | 1.2.1 | Higher-level OAuth 2.0 flow implementation for Google
+   DEBUG: 2026-03-18 06:16:33,299:      pdf_renderer.py:  470: printSegment: services |
+   DEBUG: 2026-03-18 06:16:33,301:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,303:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,306:      pdf_renderer.py:  470: printSegment: google-auth-httplib2
+   DEBUG: 2026-03-18 06:16:33,312:      pdf_renderer.py:  470: printSegment:  | 0.2.0 | HTTP transport adapter for Google authentication |
+   DEBUG: 2026-03-18 06:16:33,315:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,318:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,323:      pdf_renderer.py:  470: printSegment: Gunicorn
+   DEBUG: 2026-03-18 06:16:33,332:      pdf_renderer.py:  470: printSegment:  | 23.0.0 |
+   DEBUG: 2026-03-18 06:16:33,335:      pdf_renderer.py:  470: printSegment: Production-grade WSGI HTTP server (replaces Flask
+   DEBUG: 2026-03-18 06:16:33,338:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:33,340:      pdf_renderer.py:  470: printSegment: s dev server) |
+   DEBUG: 2026-03-18 06:16:33,342:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,346:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,351:      pdf_renderer.py:  470: printSegment: python-dotenv
+   DEBUG: 2026-03-18 06:16:33,354:      pdf_renderer.py:  470: printSegment:  | 1.0.1 | Loads environment
+   DEBUG: 2026-03-18 06:16:33,357:      pdf_renderer.py:  470: printSegment: variables from 
+   DEBUG: 2026-03-18 06:16:33,359:      pdf_renderer.py:  470: printSegment: .env
+   DEBUG: 2026-03-18 06:16:33,365:      pdf_renderer.py:  470: printSegment:  files for local development |
+   DEBUG: 2026-03-18 06:16:33,373:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,377:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,382:      pdf_renderer.py:  470: printSegment: Werkzeug (ProxyFix)
+   DEBUG: 2026-03-18 06:16:33,397:      pdf_renderer.py:  470: printSegment:  | Bundled with Flask | Middleware to
+   DEBUG: 2026-03-18 06:16:33,402:      pdf_renderer.py:  470: printSegment: correctly handle HTTPS behind reverse proxies |
+   DEBUG: 2026-03-18 06:16:33,406:      pdf_renderer.py:  470: printSegment: Frontend
+   DEBUG: 2026-03-18 06:16:33,410:      pdf_renderer.py:  470: printSegment: | Technology | Purpose |
+   DEBUG: 2026-03-18 06:16:33,414:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,418:      pdf_renderer.py:  470: printSegment: |---|---|
+   DEBUG: 2026-03-18 06:16:33,421:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,424:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,427:      pdf_renderer.py:  470: printSegment: HTML5
+   DEBUG: 2026-03-18 06:16:33,430:      pdf_renderer.py:  470: printSegment:  | Page structure and semantic markup |
+   DEBUG: 2026-03-18 06:16:33,432:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,434:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,437:      pdf_renderer.py:  470: printSegment: CSS3 (Vanilla)
+   DEBUG: 2026-03-18 06:16:33,445:      pdf_renderer.py:  470: printSegment:  | Complete
+   DEBUG: 2026-03-18 06:16:33,451:      pdf_renderer.py:  470: printSegment: styling with CSS Variables, gradients, and animations |
+   DEBUG: 2026-03-18 06:16:33,453:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,457:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,460:      pdf_renderer.py:  470: printSegment: Jinja2
+   DEBUG: 2026-03-18 06:16:33,464:      pdf_renderer.py:  470: printSegment:  | Flask
+   DEBUG: 2026-03-18 06:16:33,500:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:33,547:      pdf_renderer.py:  470: printSegment: s built-in template engine for server-side
+   DEBUG: 2026-03-18 06:16:33,551:      pdf_renderer.py:  470: printSegment: rendering |
+   DEBUG: 2026-03-18 06:16:33,555:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,558:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,563:      pdf_renderer.py:  470: printSegment: Google Fonts (Inter)
+   DEBUG: 2026-03-18 06:16:33,568:      pdf_renderer.py:  470: printSegment:  | Modern, professional typography |
+   DEBUG: 2026-03-18 06:16:33,572:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,584:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,588:      pdf_renderer.py:  470: printSegment: SVG Icons
+   DEBUG: 2026-03-18 06:16:33,597:      pdf_renderer.py:  470: printSegment:  | Inline vector icons for buttons
+   DEBUG: 2026-03-18 06:16:33,601:      pdf_renderer.py:  470: printSegment: and UI elements |
+   DEBUG: 2026-03-18 06:16:33,605:      pdf_renderer.py:  470: printSegment: DevOps 
+   DEBUG: 2026-03-18 06:16:33,609:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2026-03-18 06:16:33,613:      pdf_renderer.py:  470: printSegment:  Deployment
+   DEBUG: 2026-03-18 06:16:33,644:      pdf_renderer.py:  470: printSegment: | Technology | Purpose |
+   DEBUG: 2026-03-18 06:16:33,648:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,652:      pdf_renderer.py:  470: printSegment: |---|---|
+   DEBUG: 2026-03-18 06:16:33,657:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,662:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,666:      pdf_renderer.py:  470: printSegment: Docker
+   DEBUG: 2026-03-18 06:16:33,673:      pdf_renderer.py:  470: printSegment:  | Containerization for consistent deployment across any environment |
+   DEBUG: 2026-03-18 06:16:33,677:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,681:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,697:      pdf_renderer.py:  470: printSegment: Render
+   DEBUG: 2026-03-18 06:16:33,703:      pdf_renderer.py:  470: printSegment:  | Cloud Platform-as-a-Service (PaaS) for free hosting |
+   DEBUG: 2026-03-18 06:16:33,707:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,712:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,716:      pdf_renderer.py:  470: printSegment: Git / GitHub
+   DEBUG: 2026-03-18 06:16:33,724:      pdf_renderer.py:  470: printSegment:  | Version control and source code
+   DEBUG: 2026-03-18 06:16:33,728:      pdf_renderer.py:  470: printSegment: management |
+   DEBUG: 2026-03-18 06:16:33,732:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,737:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,742:      pdf_renderer.py:  470: printSegment: Gunicorn
+   DEBUG: 2026-03-18 06:16:33,749:      pdf_renderer.py:  470: printSegment:  | Production WSGI server (used in Docker and Render) |
+   DEBUG: 2026-03-18 06:16:33,763:      pdf_renderer.py:  470: printSegment: External Services
+   DEBUG: 2026-03-18 06:16:33,768:      pdf_renderer.py:  470: printSegment: | Service | Purpose |
+   DEBUG: 2026-03-18 06:16:33,772:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,777:      pdf_renderer.py:  470: printSegment: |---|---|
+   DEBUG: 2026-03-18 06:16:33,781:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,818:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,823:      pdf_renderer.py:  470: printSegment: Google Cloud Console
+   DEBUG: 2026-03-18 06:16:33,829:      pdf_renderer.py:  470: printSegment:  | OAuth 2.0 Client ID and Secret management |
+   DEBUG: 2026-03-18 06:16:33,839:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,843:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,848:      pdf_renderer.py:  470: printSegment: Gmail API
+   DEBUG: 2026-03-18 06:16:33,855:      pdf_renderer.py:  470: printSegment:  |
+   DEBUG: 2026-03-18 06:16:33,861:      pdf_renderer.py:  470: printSegment: RESTful API for reading email messages |
+   DEBUG: 2026-03-18 06:16:33,863:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:33,865:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:33,869:      pdf_renderer.py:  470: printSegment: Google OAuth 2.0 Server
+   DEBUG: 2026-03-18 06:16:33,872:      pdf_renderer.py:  470: printSegment:  | Authorization and token exchange endpoint
+   DEBUG: 2026-03-18 06:16:33,875:      pdf_renderer.py:  470: printSegment: |
+   DEBUG: 2026-03-18 06:16:33,885:      pdf_renderer.py:  470: printSegment: 8. Application Flow Diagram
+   DEBUG: 2026-03-18 06:16:33,892:      pdf_renderer.py:  470: printSegment: ┌─────────────────────────────────────────────────────────────────────┐
+   DEBUG: 2026-03-18 06:16:33,987:      pdf_renderer.py:  470: printSegment: │                     APPLICATION FLOW DIAGRAM                       
+   DEBUG: 2026-03-18 06:16:33,990:      pdf_renderer.py:  470: printSegment: │
+   DEBUG: 2026-03-18 06:16:33,994:      pdf_renderer.py:  470: printSegment: └─────────────────────────────────────────────────────────────────────┘
+   DEBUG: 2026-03-18 06:16:34,038:      pdf_renderer.py:  470: printSegment:     ┌──────────┐                                                       
+   DEBUG: 2026-03-18 06:16:34,048:      pdf_renderer.py:  470: printSegment:     │   USER   │                                                       
+   DEBUG: 2026-03-18 06:16:34,055:      pdf_renderer.py:  470: printSegment:     └────┬─────┘                                                       
+   DEBUG: 2026-03-18 06:16:34,103:      pdf_renderer.py:  470: printSegment:          │                                                           
+   DEBUG: 2026-03-18 06:16:34,105:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,110:      pdf_renderer.py:  470: printSegment:          │  1. Opens https://email-oauth-client.onrender.com         
+   DEBUG: 2026-03-18 06:16:34,113:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,121:      pdf_renderer.py:  470: printSegment:          ▼                                                           
+   DEBUG: 2026-03-18 06:16:34,184:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,188:      pdf_renderer.py:  470: printSegment:     ┌──────────┐                                                       
+   DEBUG: 2026-03-18 06:16:34,193:      pdf_renderer.py:  470: printSegment:     │  / route │──────────▶  Renders Login Page (index.html)           
+   DEBUG: 2026-03-18 06:16:34,197:      pdf_renderer.py:  470: printSegment:     └────┬─────┘                                                       
+   DEBUG: 2026-03-18 06:16:34,202:      pdf_renderer.py:  470: printSegment:          │                                                           
+   DEBUG: 2026-03-18 06:16:34,203:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,207:      pdf_renderer.py:  470: printSegment:          │  2. Clicks "Login with Google"                            
+   DEBUG: 2026-03-18 06:16:34,210:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,218:      pdf_renderer.py:  470: printSegment:          ▼                                                           
+   DEBUG: 2026-03-18 06:16:34,221:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,226:      pdf_renderer.py:  470: printSegment:     ┌────────────┐                                                     
+   DEBUG: 2026-03-18 06:16:34,231:      pdf_renderer.py:  470: printSegment:     │ /login     │──────────▶  Generates Google OAuth URL              
+   DEBUG: 2026-03-18 06:16:34,238:      pdf_renderer.py:  470: printSegment:     │ route      │             (includes Client ID + scope + state)    
+   DEBUG: 2026-03-18 06:16:34,241:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2026-03-18 06:16:34,245:      pdf_renderer.py:  470: printSegment:     └────┬───────┘                                                     
+   DEBUG: 2026-03-18 06:16:34,253:      pdf_renderer.py:  470: printSegment:          │                                                           
+   DEBUG: 2026-03-18 06:16:34,256:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,261:      pdf_renderer.py:  470: printSegment:          │  3. Redirect to Google                                    
+   DEBUG: 2026-03-18 06:16:34,264:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,272:      pdf_renderer.py:  470: printSegment:          ▼                                                           
+   DEBUG: 2026-03-18 06:16:34,274:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,277:      pdf_renderer.py:  470: printSegment:     ┌──────────────────┐                                               
+   DEBUG: 2026-03-18 06:16:34,280:      pdf_renderer.py:  470: printSegment:     │  GOOGLE OAUTH    │                                               
+   DEBUG: 2026-03-18 06:16:34,282:      pdf_renderer.py:  470: printSegment:     │  CONSENT SCREEN  │──────▶  User enters Google credentials        
+   DEBUG: 2026-03-18 06:16:34,285:      pdf_renderer.py:  470: printSegment:     │  (Google's site) │         User clicks "Allow"                   
+   DEBUG: 2026-03-18 06:16:34,287:      pdf_renderer.py:  470: printSegment:     └────┬─────────────┘                                               
+   DEBUG: 2026-03-18 06:16:34,293:      pdf_renderer.py:  470: printSegment:          │                                                           
+   DEBUG: 2026-03-18 06:16:34,297:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,308:      pdf_renderer.py:  470: printSegment:          │  4. Google redirects back with authorization code         
+   DEBUG: 2026-03-18 06:16:34,312:      pdf_renderer.py:  470: printSegment:   
+   DEBUG: 2026-03-18 06:16:34,321:      pdf_renderer.py:  470: printSegment:          ▼                                                           
+   DEBUG: 2026-03-18 06:16:34,324:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,330:      pdf_renderer.py:  470: printSegment:     ┌────────────────┐                                                 
+   DEBUG: 2026-03-18 06:16:34,335:      pdf_renderer.py:  470: printSegment:     │ /oauth2callback│──────────▶  Exchanges code for Access Token     
+   DEBUG: 2026-03-18 06:16:34,342:      pdf_renderer.py:  470: printSegment:     │ route          │             (server-to-server, secret included) 
+   DEBUG: 2026-03-18 06:16:34,345:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2026-03-18 06:16:34,347:      pdf_renderer.py:  470: printSegment:     └────┬───────────┘                                                 
+   DEBUG: 2026-03-18 06:16:34,351:      pdf_renderer.py:  470: printSegment:          │                                                           
+   DEBUG: 2026-03-18 06:16:34,353:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,358:      pdf_renderer.py:  470: printSegment:          │  5. Redirect to /emails                                   
+   DEBUG: 2026-03-18 06:16:34,360:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,365:      pdf_renderer.py:  470: printSegment:          ▼                                                           
+   DEBUG: 2026-03-18 06:16:34,366:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,369:      pdf_renderer.py:  470: printSegment:     ┌────────────┐                                                     
+   DEBUG: 2026-03-18 06:16:34,372:      pdf_renderer.py:  470: printSegment:     │ /emails    │──────────▶  Uses Access Token to call Gmail API     
+   DEBUG: 2026-03-18 06:16:34,376:      pdf_renderer.py:  470: printSegment:     │ route      │             Fetches 10 latest emails                
+   DEBUG: 2026-03-18 06:16:34,384:      pdf_renderer.py:  470: printSegment:     │            │             Categorizes each email                  
+   DEBUG: 2026-03-18 06:16:34,388:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2026-03-18 06:16:34,390:      pdf_renderer.py:  470: printSegment:     │            │             Renders inbox page (emails.html)        
+   DEBUG: 2026-03-18 06:16:34,393:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2026-03-18 06:16:34,395:      pdf_renderer.py:  470: printSegment:     └────┬───────┘                                                     
+   DEBUG: 2026-03-18 06:16:34,400:      pdf_renderer.py:  470: printSegment:          │                                                           
+   DEBUG: 2026-03-18 06:16:34,401:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,408:      pdf_renderer.py:  470: printSegment:          │  6. User clicks "Logout"                                  
+   DEBUG: 2026-03-18 06:16:34,411:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,416:      pdf_renderer.py:  470: printSegment:          ▼                                                           
+   DEBUG: 2026-03-18 06:16:34,417:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,422:      pdf_renderer.py:  470: printSegment:     ┌────────────┐                                                     
+   DEBUG: 2026-03-18 06:16:34,427:      pdf_renderer.py:  470: printSegment:     │ /logout    │──────────▶  Clears session data                     
+   DEBUG: 2026-03-18 06:16:34,430:      pdf_renderer.py:  470: printSegment:     │ route      │             Redirects to login page                 
+   DEBUG: 2026-03-18 06:16:34,432:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2026-03-18 06:16:34,433:      pdf_renderer.py:  470: printSegment:     └────────────┘                                                     
+   DEBUG: 2026-03-18 06:16:34,436:      pdf_renderer.py:  470: printSegment: 9. Architecture Diagram
+   DEBUG: 2026-03-18 06:16:34,439:      pdf_renderer.py:  470: printSegment: ┌─────────────────────────────────────────────────────────────────────┐
+   DEBUG: 2026-03-18 06:16:34,444:      pdf_renderer.py:  470: printSegment: │                     SYSTEM ARCHITECTURE DIAGRAM                    
+   DEBUG: 2026-03-18 06:16:34,447:      pdf_renderer.py:  470: printSegment: │
+   DEBUG: 2026-03-18 06:16:34,450:      pdf_renderer.py:  470: printSegment: └─────────────────────────────────────────────────────────────────────┘
+   DEBUG: 2026-03-18 06:16:34,454:      pdf_renderer.py:  470: printSegment: ┌─────────────────┐         ┌─────────────────────────────────────────┐
+   DEBUG: 2026-03-18 06:16:34,459:      pdf_renderer.py:  470: printSegment: │                 │         │           FLASK APPLICATION             │
+   DEBUG: 2026-03-18 06:16:34,462:      pdf_renderer.py:  470: printSegment: │    USER'S       │  HTTPS  │                                         │
+   DEBUG: 2026-03-18 06:16:34,464:      pdf_renderer.py:  470: printSegment: │    BROWSER      │◄───────►│  ┌─────────┐    ┌────────────────────┐  │
+   DEBUG: 2026-03-18 06:16:34,521:      pdf_renderer.py:  470: printSegment: │                 │         │  │ app.py  │    │    auth.py          │  │
+   DEBUG: 2026-03-18 06:16:34,523:      pdf_renderer.py:  470: printSegment: │  - index.html   │         │  │ (Routes)│───►│ (OAuth Flow)       │  │
+   DEBUG: 2026-03-18 06:16:34,527:      pdf_renderer.py:  470: printSegment: │  - emails.html  │         │  └────┬────┘    └────────┬───────────┘  │
+   DEBUG: 2026-03-18 06:16:34,529:      pdf_renderer.py:  470: printSegment: │  - styles.css   │         │       │                  │              │
+   DEBUG: 2026-03-18 06:16:34,532:      pdf_renderer.py:  470: printSegment: │                 │         │       ▼                  │              │
+   DEBUG: 2026-03-18 06:16:34,534:      pdf_renderer.py:  470: printSegment: └─────────────────┘         │  ┌────────────────┐     │              │
+   DEBUG: 2026-03-18 06:16:34,539:      pdf_renderer.py:  470: printSegment:                             │  │gmail_service.py│     │              │
+   DEBUG: 2026-03-18 06:16:34,543:      pdf_renderer.py:  470: printSegment:                             │  │(Gmail API)     │     │              │
+   DEBUG: 2026-03-18 06:16:34,547:      pdf_renderer.py:  470: printSegment:                             │  └──────┬─────────┘     │              │
+   DEBUG: 2026-03-18 06:16:34,553:      pdf_renderer.py:  470: printSegment:                             │         │               │              │
+   DEBUG: 2026-03-18 06:16:34,558:      pdf_renderer.py:  470: printSegment:                             │         ▼               │              │
+   DEBUG: 2026-03-18 06:16:34,561:      pdf_renderer.py:  470: printSegment:                             │  ┌────────────────┐     │              │
+   DEBUG: 2026-03-18 06:16:34,564:      pdf_renderer.py:  470: printSegment:                             │  │email_classifier│     │              │
+   DEBUG: 2026-03-18 06:16:34,567:      pdf_renderer.py:  470: printSegment:                             │  │(Categorization)│     │              │
+   DEBUG: 2026-03-18 06:16:34,570:      pdf_renderer.py:  470: printSegment:                             │  └────────────────┘     │              │
+   DEBUG: 2026-03-18 06:16:34,573:      pdf_renderer.py:  470: printSegment:                             │         │               │              │
+   DEBUG: 2026-03-18 06:16:34,577:      pdf_renderer.py:  470: printSegment:                             │  ┌──────┴───────┐       │              │
+   DEBUG: 2026-03-18 06:16:34,583:      pdf_renderer.py:  470: printSegment:                             │  │  config.py   │       │              │
+   DEBUG: 2026-03-18 06:16:34,589:      pdf_renderer.py:  470: printSegment:                             │  │ (Env Vars)   │       │              │
+   DEBUG: 2026-03-18 06:16:34,593:      pdf_renderer.py:  470: printSegment:                             │  └──────────────┘       │              │
+   DEBUG: 2026-03-18 06:16:34,596:      pdf_renderer.py:  470: printSegment:                             └─────────┬───────────────┴──────────────┘
+   DEBUG: 2026-03-18 06:16:34,598:      pdf_renderer.py:  470: printSegment:                                       │               │
+   DEBUG: 2026-03-18 06:16:34,601:      pdf_renderer.py:  470: printSegment:                                HTTPS  │               │ HTTPS
+   DEBUG: 2026-03-18 06:16:34,604:      pdf_renderer.py:  470: printSegment:                                       ▼               ▼
+   DEBUG: 2026-03-18 06:16:34,606:      pdf_renderer.py:  470: printSegment:                             ┌─────────────┐  ┌────────────────────┐
+   DEBUG: 2026-03-18 06:16:34,613:      pdf_renderer.py:  470: printSegment:                             │  GMAIL API  │  │  GOOGLE OAUTH 2.0  │
+   DEBUG: 2026-03-18 06:16:34,620:      pdf_renderer.py:  470: printSegment:                             │  (Google)   │  │  SERVER (Google)    │
+   DEBUG: 2026-03-18 06:16:34,628:      pdf_renderer.py:  470: printSegment:                             │             │  │                    │
+   DEBUG: 2026-03-18 06:16:34,634:      pdf_renderer.py:  470: printSegment:                             │ Provides    │  │ Handles login,     │
+   DEBUG: 2026-03-18 06:16:34,639:      pdf_renderer.py:  470: printSegment:                             │ email data  │  │ consent, and       │
+   DEBUG: 2026-03-18 06:16:34,643:      pdf_renderer.py:  470: printSegment:                             │             │  │ token exchange     │
+   DEBUG: 2026-03-18 06:16:34,645:      pdf_renderer.py:  470: printSegment:                             └─────────────┘  └────────────────────┘
+   DEBUG: 2026-03-18 06:16:34,647:      pdf_renderer.py:  470: printSegment: ┌─────────────────────────────────────────────────────────────────────┐
+   DEBUG: 2026-03-18 06:16:34,650:      pdf_renderer.py:  470: printSegment: │                     DEPLOYMENT INFRASTRUCTURE                      
+   DEBUG: 2026-03-18 06:16:34,652:      pdf_renderer.py:  470: printSegment: │
+   DEBUG: 2026-03-18 06:16:34,653:      pdf_renderer.py:  470: printSegment: ├─────────────────────────────────────────────────────────────────────┤
+   DEBUG: 2026-03-18 06:16:34,657:      pdf_renderer.py:  470: printSegment: │                                                                    
+   DEBUG: 2026-03-18 06:16:34,658:      pdf_renderer.py:  470: printSegment: │
+   DEBUG: 2026-03-18 06:16:34,662:      pdf_renderer.py:  470: printSegment: │   GitHub Repository                     Render (Cloud PaaS)        
+   DEBUG: 2026-03-18 06:16:34,664:      pdf_renderer.py:  470: printSegment: │
+   DEBUG: 2026-03-18 06:16:34,666:      pdf_renderer.py:  470: printSegment: │   ┌────────────────┐     Auto-Deploy    ┌────────────────────┐      │
+   DEBUG: 2026-03-18 06:16:34,669:      pdf_renderer.py:  470: printSegment: │   │Source Code     │───────────────────►│ Docker Container   │      │
+   DEBUG: 2026-03-18 06:16:34,671:      pdf_renderer.py:  470: printSegment: │   │(main branch)   │                    │ ┌────────────────┐ │      │
+   DEBUG: 2026-03-18 06:16:34,674:      pdf_renderer.py:  470: printSegment: │   └────────────────┘                    │ │  Gunicorn      │ │      │
+   DEBUG: 2026-03-18 06:16:34,681:      pdf_renderer.py:  470: printSegment: │                                         │ │  (WSGI Server) │ │      │
+   DEBUG: 2026-03-18 06:16:34,684:      pdf_renderer.py:  470: printSegment: │                                         │ │       │        │ │      │
+   DEBUG: 2026-03-18 06:16:34,687:      pdf_renderer.py:  470: printSegment: │                                         │ │  Flask App     │ │      │
+   DEBUG: 2026-03-18 06:16:34,690:      pdf_renderer.py:  470: printSegment: │                                         │ └────────────────┘ │      │
+   DEBUG: 2026-03-18 06:16:34,695:      pdf_renderer.py:  470: printSegment: │                                         │ Port: 10000        │      │
+   DEBUG: 2026-03-18 06:16:34,700:      pdf_renderer.py:  470: printSegment: │                                         └────────────────────┘      │
+   DEBUG: 2026-03-18 06:16:34,706:      pdf_renderer.py:  470: printSegment: │                                         URL: email-oauth-client    
+   DEBUG: 2026-03-18 06:16:34,709:      pdf_renderer.py:  470: printSegment: │
+   DEBUG: 2026-03-18 06:16:34,716:      pdf_renderer.py:  470: printSegment: │                                              .onrender.com         
+   DEBUG: 2026-03-18 06:16:34,719:      pdf_renderer.py:  470: printSegment: │
+   DEBUG: 2026-03-18 06:16:34,721:      pdf_renderer.py:  470: printSegment: └─────────────────────────────────────────────────────────────────────┘
+   DEBUG: 2026-03-18 06:16:34,726:      pdf_renderer.py:  470: printSegment: 10. Project File Structure
+   DEBUG: 2026-03-18 06:16:34,728:      pdf_renderer.py:  470: printSegment: email-oauth-client/
+   DEBUG: 2026-03-18 06:16:34,732:      pdf_renderer.py:  470: printSegment: ├── app.py                    # Main Flask application (routes &
+   DEBUG: 2026-03-18 06:16:34,734:      pdf_renderer.py:  470: printSegment: request handling)
+   DEBUG: 2026-03-18 06:16:34,742:      pdf_renderer.py:  470: printSegment: ├── auth.py                   # OAuth 2.0 flow (consent URL, token
+   DEBUG: 2026-03-18 06:16:34,746:      pdf_renderer.py:  470: printSegment: exchange)
+   DEBUG: 2026-03-18 06:16:34,753:      pdf_renderer.py:  470: printSegment: ├── config.py                 # Configuration & secrets (environment
+   DEBUG: 2026-03-18 06:16:34,756:      pdf_renderer.py:  470: printSegment: variables)
+   DEBUG: 2026-03-18 06:16:34,764:      pdf_renderer.py:  470: printSegment: ├── gmail_service.py          # Gmail API communication (batch email
+   DEBUG: 2026-03-18 06:16:34,768:      pdf_renderer.py:  470: printSegment: fetching)
+   DEBUG: 2026-03-18 06:16:34,771:      pdf_renderer.py:  470: printSegment: ├── utils/
+   DEBUG: 2026-03-18 06:16:34,776:      pdf_renderer.py:  470: printSegment: │   ├── __init__.py           # Python package initializer
+   DEBUG: 2026-03-18 06:16:34,783:      pdf_renderer.py:  470: printSegment: │   └── email_classifier.py  # Keyword-based email categorization
+   DEBUG: 2026-03-18 06:16:34,787:      pdf_renderer.py:  470: printSegment: engine
+   DEBUG: 2026-03-18 06:16:34,791:      pdf_renderer.py:  470: printSegment: ├── templates/
+   DEBUG: 2026-03-18 06:16:34,794:      pdf_renderer.py:  470: printSegment: │   ├── index.html            # Login page template
+   DEBUG: 2026-03-18 06:16:34,797:      pdf_renderer.py:  470: printSegment: │   └── emails.html           # Inbox/email list page template
+   DEBUG: 2026-03-18 06:16:34,799:      pdf_renderer.py:  470: printSegment: ├── static/
+   DEBUG: 2026-03-18 06:16:34,805:      pdf_renderer.py:  470: printSegment: │   └── styles.css            # Complete dark-theme CSS (580 lines)
+   DEBUG: 2026-03-18 06:16:34,810:      pdf_renderer.py:  470: printSegment: ├── requirements.txt          # Python dependencies (pinned versions)
+   DEBUG: 2026-03-18 06:16:34,813:      pdf_renderer.py:  470: printSegment: ├── Dockerfile                # Docker container configuration
+   DEBUG: 2026-03-18 06:16:34,816:      pdf_renderer.py:  470: printSegment: ├── Procfile                  # PaaS deployment command (Gunicorn)
+   DEBUG: 2026-03-18 06:16:34,820:      pdf_renderer.py:  470: printSegment: ├── .dockerignore             # Files excluded from Docker image
+   DEBUG: 2026-03-18 06:16:34,823:      pdf_renderer.py:  470: printSegment: ├── .gitignore                # Files excluded from Git tracking
+   DEBUG: 2026-03-18 06:16:34,828:      pdf_renderer.py:  470: printSegment: ├── .env.example              # Template for environment variables
+   DEBUG: 2026-03-18 06:16:34,832:      pdf_renderer.py:  470: printSegment: ├── start.bat                 # One-click local execution script
+   DEBUG: 2026-03-18 06:16:34,836:      pdf_renderer.py:  470: printSegment: (Windows)
+   DEBUG: 2026-03-18 06:16:34,840:      pdf_renderer.py:  470: printSegment: └── README.md                 # Full project documentation
+   DEBUG: 2026-03-18 06:16:34,844:      pdf_renderer.py:  470: printSegment: 11. Security Considerations
+   DEBUG: 2026-03-18 06:16:34,847:      pdf_renderer.py:  470: printSegment: This project was designed with security as a top priority:
+   DEBUG: 2026-03-18 06:16:34,849:      pdf_renderer.py:  470: printSegment: | Security Measure | Implementation |
+   DEBUG: 2026-03-18 06:16:34,851:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,852:      pdf_renderer.py:  470: printSegment: |---|---|
+   DEBUG: 2026-03-18 06:16:34,854:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,857:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:34,860:      pdf_renderer.py:  470: printSegment: No password storage
+   DEBUG: 2026-03-18 06:16:34,864:      pdf_renderer.py:  470: printSegment:  | OAuth 2.0 ensures the app never sees user
+   DEBUG: 2026-03-18 06:16:34,866:      pdf_renderer.py:  470: printSegment: passwords |
+   DEBUG: 2026-03-18 06:16:34,869:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,871:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:34,875:      pdf_renderer.py:  470: printSegment: Read-only scope
+   DEBUG: 2026-03-18 06:16:34,877:      pdf_renderer.py:  470: printSegment:  | Only 
+   DEBUG: 2026-03-18 06:16:34,879:      pdf_renderer.py:  470: printSegment: gmail.readonly
+   DEBUG: 2026-03-18 06:16:34,881:      pdf_renderer.py:  470: printSegment:  — cannot send, delete, or modify emails |
+   DEBUG: 2026-03-18 06:16:34,882:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,884:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:34,887:      pdf_renderer.py:  470: printSegment: Environment
+   DEBUG: 2026-03-18 06:16:34,889:      pdf_renderer.py:  470: printSegment: variables
+   DEBUG: 2026-03-18 06:16:34,893:      pdf_renderer.py:  470: printSegment:  | All secrets (Client ID, Secret, Flask Key) stored as env vars, never in code |
+   DEBUG: 2026-03-18 06:16:34,897:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,898:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:34,900:      pdf_renderer.py:  470: printSegment: HTTPS enforcement
+   DEBUG: 2026-03-18 06:16:34,902:      pdf_renderer.py:  470: printSegment:  | 
+   DEBUG: 2026-03-18 06:16:34,905:      pdf_renderer.py:  470: printSegment: ProxyFix
+   DEBUG: 2026-03-18 06:16:34,907:      pdf_renderer.py:  470: printSegment:  middleware ensures secure HTTPS behind Render
+   DEBUG: 2026-03-18 06:16:34,910:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:34,912:      pdf_renderer.py:  470: printSegment: s load balancer |
+   DEBUG: 2026-03-18 06:16:34,913:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,915:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:34,918:      pdf_renderer.py:  470: printSegment: CSRF protection
+   DEBUG: 2026-03-18 06:16:34,919:      pdf_renderer.py:  470: printSegment:  | OAuth 
+   DEBUG: 2026-03-18 06:16:34,921:      pdf_renderer.py:  470: printSegment: state
+   DEBUG: 2026-03-18 06:16:34,931:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2026-03-18 06:16:34,936:      pdf_renderer.py:  470: printSegment: parameter prevents Cross-Site Request Forgery attacks |
+   DEBUG: 2026-03-18 06:16:34,938:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,939:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:34,942:      pdf_renderer.py:  470: printSegment: Session encryption
+   DEBUG: 2026-03-18 06:16:34,948:      pdf_renderer.py:  470: printSegment:  | Flask sessions are cryptographically
+   DEBUG: 2026-03-18 06:16:34,950:      pdf_renderer.py:  470: printSegment: signed with a secret key |
+   DEBUG: 2026-03-18 06:16:34,952:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,954:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:34,956:      pdf_renderer.py:  470: printSegment: No database
+   DEBUG: 2026-03-18 06:16:34,961:      pdf_renderer.py:  470: printSegment:  | No persistent storage of user data; everything lives in the session cookie |
+   DEBUG: 2026-03-18 06:16:34,964:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:34,967:      pdf_renderer.py:  470: printSegment: | 
+   DEBUG: 2026-03-18 06:16:34,971:      pdf_renderer.py:  470: printSegment: Token expiry
+   DEBUG: 2026-03-18 06:16:34,977:      pdf_renderer.py:  470: printSegment:  | Access tokens automatically expire; the app handles re-authentication |
+   DEBUG: 2026-03-18 06:16:34,984:      pdf_renderer.py:  470: printSegment: 12. Deployment Architecture
+   DEBUG: 2026-03-18 06:16:34,990:      pdf_renderer.py:  470: printSegment: The application is deployed using a fully automated CI/CD pipeline:
+   DEBUG: 2026-03-18 06:16:34,994:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2026-03-18 06:16:34,998:      pdf_renderer.py:  470: printSegment: Developer pushes code
+   DEBUG: 2026-03-18 06:16:35,001:      pdf_renderer.py:  470: printSegment:  to the 
+   DEBUG: 2026-03-18 06:16:35,005:      pdf_renderer.py:  470: printSegment: main
+   DEBUG: 2026-03-18 06:16:35,009:      pdf_renderer.py:  470: printSegment:  branch on GitHub.
+   DEBUG: 2026-03-18 06:16:35,012:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2026-03-18 06:16:35,014:      pdf_renderer.py:  470: printSegment: Render detects the push
+   DEBUG: 2026-03-18 06:16:35,016:      pdf_renderer.py:  470: printSegment:  automatically via webhook.
+   DEBUG: 2026-03-18 06:16:35,020:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2026-03-18 06:16:35,024:      pdf_renderer.py:  470: printSegment: Render builds a Docker image
+   DEBUG: 2026-03-18 06:16:35,027:      pdf_renderer.py:  470: printSegment:  using the project
+   DEBUG: 2026-03-18 06:16:35,029:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:35,031:      pdf_renderer.py:  470: printSegment: s 
+   DEBUG: 2026-03-18 06:16:35,033:      pdf_renderer.py:  470: printSegment: Dockerfile
+   DEBUG: 2026-03-18 06:16:35,035:      pdf_renderer.py:  470: printSegment: .
+   DEBUG: 2026-03-18 06:16:35,039:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2026-03-18 06:16:35,045:      pdf_renderer.py:  470: printSegment: The Docker container starts
+   DEBUG: 2026-03-18 06:16:35,048:      pdf_renderer.py:  470: printSegment:  with Gunicorn serving the Flask app.
+   DEBUG: 2026-03-18 06:16:35,049:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2026-03-18 06:16:35,052:      pdf_renderer.py:  470: printSegment: The application goes live
+   DEBUG: 2026-03-18 06:16:35,054:      pdf_renderer.py:  470: printSegment:  at 
+   DEBUG: 2026-03-18 06:16:35,058:      pdf_renderer.py:  470: printSegment: https://email-oauth-client.onrender.com
+   DEBUG: 2026-03-18 06:16:35,062:      pdf_renderer.py:  470: printSegment: .
+   DEBUG: 2026-03-18 06:16:35,069:      pdf_renderer.py:  470: printSegment: Environment variables (Client ID, Client Secret, Flask Secret Key) are securely configured through Render
+   DEBUG: 2026-03-18 06:16:35,072:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:35,077:      pdf_renderer.py:  470: printSegment: s
+   DEBUG: 2026-03-18 06:16:35,080:      pdf_renderer.py:  470: printSegment: dashboard and injected into the container at runtime.
+   DEBUG: 2026-03-18 06:16:35,083:      pdf_renderer.py:  470: printSegment: 13. Conclusion
+   DEBUG: 2026-03-18 06:16:35,086:      pdf_renderer.py:  470: printSegment: The 
+   DEBUG: 2026-03-18 06:16:35,091:      pdf_renderer.py:  470: printSegment: Email OAuth Client
+   DEBUG: 2026-03-18 06:16:35,120:      pdf_renderer.py:  470: printSegment:  is a fully functional, production-deployed web application that demonstrates a complete
+   DEBUG: 2026-03-18 06:16:35,125:      pdf_renderer.py:  470: printSegment: implementation of the OAuth 2.0 Authorization Code Grant flow. It successfully:
+   DEBUG: 2026-03-18 06:16:35,129:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:35,134:      pdf_renderer.py:  470: printSegment: ✅ Authenticates users through Google
+   DEBUG: 2026-03-18 06:16:35,139:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:35,145:      pdf_renderer.py:  470: printSegment: s official OAuth 2.0 service
+   DEBUG: 2026-03-18 06:16:35,147:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:35,150:      pdf_renderer.py:  470: printSegment: ✅ Retrieves the 10 latest emails from the user
+   DEBUG: 2026-03-18 06:16:35,152:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2026-03-18 06:16:35,155:      pdf_renderer.py:  470: printSegment: s Gmail inbox
+   DEBUG: 2026-03-18 06:16:35,157:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:35,163:      pdf_renderer.py:  470: printSegment: ✅ Displays emails with sender, subject, date, and preview information
+   DEBUG: 2026-03-18 06:16:35,167:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:35,170:      pdf_renderer.py:  470: printSegment: ✅ Categorizes emails intelligently using keyword-based classification
+   DEBUG: 2026-03-18 06:16:35,172:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:35,177:      pdf_renderer.py:  470: printSegment: ✅ Provides search and filter capabilities using Gmail search operators
+   DEBUG: 2026-03-18 06:16:35,179:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:35,182:      pdf_renderer.py:  470: printSegment: ✅ Runs securely in production with HTTPS, encrypted sessions, and read-only Gmail access
+   DEBUG: 2026-03-18 06:16:35,185:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-03-18 06:16:35,190:      pdf_renderer.py:  470: printSegment: ✅ Is deployed live and accessible at 
+   DEBUG: 2026-03-18 06:16:35,194:      pdf_renderer.py:  470: printSegment: https://email-oauth-client.onrender.com
+   DEBUG: 2026-03-18 06:16:35,237:      pdf_renderer.py:  470: printSegment: The project serves as a comprehensive example of how modern web applications can safely interact with third-party
+   DEBUG: 2026-03-18 06:16:35,243:      pdf_renderer.py:  470: printSegment: APIs using OAuth 2.0, without ever compromising user security.
+   DEBUG: 2026-03-18 06:16:35,254:      pdf_renderer.py:  470: printSegment: Report generated on March 18, 2026
+   DEBUG: 2026-03-18 06:16:35,264:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-03-18 06:16:35,271:      pdf_renderer.py:  470: printSegment: Email OAuth Client v1.0 — by Rahul Mahato
+   DEBUG: 2026-03-18 06:16:35,313:      pdf_renderer.py:   53: 0, [1, 'Email OAuth Client — Project Report', 1, 68.0]
+   DEBUG: 2026-03-18 06:16:35,313:      pdf_renderer.py:   53: 1, [2, 'Table of Contents', 1, 148.0]
+   DEBUG: 2026-03-18 06:16:35,314:      pdf_renderer.py:   53: 2, [2, '1. What is This Project?', 1, 361.6]
+   DEBUG: 2026-03-18 06:16:35,314:      pdf_renderer.py:   53: 3, [2, '2. What Does This Project Do?', 1, 533.2]
+   DEBUG: 2026-03-18 06:16:35,314:      pdf_renderer.py:   53: 4, [2, '3. What Problem Does It Solve?', 2, 70.0]
+   DEBUG: 2026-03-18 06:16:35,314:      pdf_renderer.py:   53: 5, [3, 'The Problem', 2, 103.19999999999999]
+   DEBUG: 2026-03-18 06:16:35,314:      pdf_renderer.py:   53: 6, [3, 'The Solution', 2, 252.0]
+   DEBUG: 2026-03-18 06:16:35,314:      pdf_renderer.py:   53: 7, [2, '4. How Does This Project Work?', 2, 371.2]
+   DEBUG: 2026-03-18 06:16:35,315:      pdf_renderer.py:   53: 8, [3, 'Step 1: User Visits the Application', 2, 422.4]
+   DEBUG: 2026-03-18 06:16:35,315:      pdf_renderer.py:   53: 9, [3, 'Step 2: User Clicks ', 2, 481.19999999999993]
+   DEBUG: 2026-03-18 06:16:35,315:      pdf_renderer.py:   53: 10, [3, 'Step 3: User Logs In on Google', 2, 587.9999999999999]
+   DEBUG: 2026-03-18 06:16:35,315:      pdf_renderer.py:   53: 11, [3, 'Step 4: User Grants Permission', 2, 646.7999999999998]
+   DEBUG: 2026-03-18 06:16:35,315:      pdf_renderer.py:   53: 12, [3, 'Step 5: Google Sends Back an Authorization Code', 2, 705.5999999999998]
+   DEBUG: 2026-03-18 06:16:35,315:      pdf_renderer.py:   53: 13, [3, 'Step 6: Application Exchanges the Code for an Access Token', 3, 116.4]
+   DEBUG: 2026-03-18 06:16:35,315:      pdf_renderer.py:   53: 14, [3, 'Step 7: Application Fetches Emails Using the Access Token', 3, 187.20000000000002]
+   DEBUG: 2026-03-18 06:16:35,316:      pdf_renderer.py:   53: 15, [3, 'Step 8: Emails Are Displayed', 3, 246.0]
+   DEBUG: 2026-03-18 06:16:35,316:      pdf_renderer.py:   53: 16, [2, '5. The Logic Behind the Project', 3, 317.2]
+   DEBUG: 2026-03-18 06:16:35,316:      pdf_renderer.py:   53: 17, [3, 'File-by-File Breakdown', 3, 350.4]
+   DEBUG: 2026-03-18 06:16:35,316:      pdf_renderer.py:   53: 18, [4, 'config.py', 3, 396.79999999999995]
+   DEBUG: 2026-03-18 06:16:35,316:      pdf_renderer.py:   53: 19, [4, 'auth.py', 3, 450.79999999999995]
+   DEBUG: 2026-03-18 06:16:35,317:      pdf_renderer.py:   53: 20, [4, 'gmail_service.py', 3, 600.8]
+   DEBUG: 2026-03-18 06:16:35,317:      pdf_renderer.py:   53: 21, [4, 'utils/email_classifier.py', 4, 74.0]
+   DEBUG: 2026-03-18 06:16:35,317:      pdf_renderer.py:   53: 22, [4, 'app.py', 4, 182.0]
+   DEBUG: 2026-03-18 06:16:35,317:      pdf_renderer.py:   53: 23, [2, '6. The Role of OAuth 2.0', 4, 290.8]
+   DEBUG: 2026-03-18 06:16:35,317:      pdf_renderer.py:   53: 24, [3, 'What is OAuth 2.0?', 4, 324.0]
+   DEBUG: 2026-03-18 06:16:35,317:      pdf_renderer.py:   53: 25, [3, 'How OAuth 2.0 Works in This Project', 4, 394.79999999999995]
+   DEBUG: 2026-03-18 06:16:35,317:      pdf_renderer.py:   53: 26, [3, 'The OAuth 2.0 Flow (Authorization Code Grant)', 4, 483.5999999999999]
+   DEBUG: 2026-03-18 06:16:35,318:      pdf_renderer.py:   53: 27, [3, 'Why OAuth 2.0 is Important', 4, 638.3999999999999]
+   DEBUG: 2026-03-18 06:16:35,318:      pdf_renderer.py:   53: 28, [3, 'The Scope: ', 5, 72.0]
+   DEBUG: 2026-03-18 06:16:35,318:      pdf_renderer.py:   53: 29, [2, '7. Technology Stack', 5, 215.20000000000002]
+   DEBUG: 2026-03-18 06:16:35,318:      pdf_renderer.py:   53: 30, [3, 'Backend', 5, 248.40000000000003]
+   DEBUG: 2026-03-18 06:16:35,318:      pdf_renderer.py:   53: 31, [3, 'Frontend', 5, 379.2]
+   DEBUG: 2026-03-18 06:16:35,318:      pdf_renderer.py:   53: 32, [3, 'DevOps ', 5, 461.99999999999994]
+   DEBUG: 2026-03-18 06:16:35,319:      pdf_renderer.py:   53: 33, [3, 'External Services', 5, 532.7999999999998]
+   DEBUG: 2026-03-18 06:16:35,319:      pdf_renderer.py:   53: 34, [2, '8. Application Flow Diagram', 5, 615.9999999999998]
+   DEBUG: 2026-03-18 06:16:35,319:      pdf_renderer.py:   53: 35, [2, '9. Architecture Diagram', 7, 272.8]
+   DEBUG: 2026-03-18 06:16:35,319:      pdf_renderer.py:   53: 36, [2, '10. Project File Structure', 8, 440.8]
+   DEBUG: 2026-03-18 06:16:35,319:      pdf_renderer.py:   53: 37, [2, '11. Security Considerations', 9, 176.8]
+   DEBUG: 2026-03-18 06:16:35,320:      pdf_renderer.py:   53: 38, [2, '12. Deployment Architecture', 9, 330.40000000000003]
+   DEBUG: 2026-03-18 06:16:35,320:      pdf_renderer.py:   53: 39, [2, '13. Conclusion', 9, 496.00000000000006]
