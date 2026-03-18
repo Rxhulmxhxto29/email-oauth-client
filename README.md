@@ -1,5 +1,7 @@
 # Email OAuth Client
 
+🔗 **Live Demo:** [https://email-oauth-client.onrender.com](https://email-oauth-client.onrender.com)
+
 A production-style Flask web application that authenticates users via **Google OAuth 2.0** and displays the **latest 10 emails** from their Gmail inbox.
 
 ## Architecture
