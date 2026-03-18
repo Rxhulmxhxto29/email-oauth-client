@@ -63,7 +63,7 @@ def fetch_latest_emails(service, max_results: int = 10, query: str = "") -> list
             return emails
 
         # Array to store the emails in the exact order returned by the original list call
-        emails = [None] * len(messages)
+        emails: list = [None] * len(messages)  # type: ignore
 
         def callback(request_id, response, exception):
             if exception is not None:
@@ -84,7 +84,7 @@ def fetch_latest_emails(service, max_results: int = 10, query: str = "") -> list
                 "preview": preview,
             }
             email_info["category"] = categorize_email(email_info)
-            emails[idx] = email_info
+            emails[idx] = email_info  # type: ignore
 
         # Step 2 — fetch metadata + snippet for each message using HTTP Batching
         batch = service.new_batch_http_request(callback=callback)
